@@ -15,3 +15,9 @@ Exemplo: Quantidade de Empates ANO
 
 6) Total Geral de Média de Gols por ano, Média de Partidas vencidas por ano, Média de Partidas perdidas por ano e média de partidas empatadas por ano.
 
+
+
+
+Fontes :
+
+# Machine Learning no Campeonato Brasileiro (Fonte: https://www.football-data.co.uk/brazil.php ) https://www.youtube.com/watch?v=e1e5RwaVY8I
