@@ -21,3 +21,5 @@ Exemplo: Quantidade de Empates ANO
 Fontes :
 
 # Machine Learning no Campeonato Brasileiro (Fonte: https://www.football-data.co.uk/brazil.php ) https://www.youtube.com/watch?v=e1e5RwaVY8I
+
+# https://paulovasconcellos.com.br/o-que-%C3%A9-a-value-is-trying-to-be-set-on-a-copy-of-a-slice-from-a-dataframe-e85f744d8be1
