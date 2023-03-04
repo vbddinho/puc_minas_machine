@@ -1,0 +1,739 @@
+Class.,Jogador,Nação,Pos.,Equipe,Idade,Nascimento,MP,Inícios,Min.,90s,Gols,Assis.,G+A,G-PB,PB,PT,CrtsA,CrtV,PrgC,PrgP,PrgR,Gols,Assis.,G+A,G-PB,G+A-PB,Partidas,-9999
+1,Adryelson,br BRA,ZG,Sport Recife,19,1998,11,11,990,11.0,1,0,1,1,0,0,2,0,,,,009,000,009,009,009,Partidas,e980e78d
+2,Rodrigo Aguirre,uy URU,LTAT,Botafogo (RJ),23,1994,20,6,747,8.3,1,0,1,1,0,0,4,2,,,,012,000,012,012,012,Partidas,b5691f5d
+3,Airton,br BRA,LT,Fluminense,27,1990,8,6,479,5.3,0,0,0,0,0,0,5,0,,,,000,000,000,000,000,Partidas,00dee972
+4,Juan Alano,br BRA,LT,Internacional,21,1996,9,2,278,3.1,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,88c61631
+5,Yuri Alberto,br BRA,LTAT,Santos,16,2001,9,2,265,2.9,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,65159211
+6,Alejandro,br BRA,AT,Cruzeiro,15,2002,1,0,2,0.0,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,90d5e4b2
+7,Alemão,br BRA,ZG,Paraná,27,1990,6,5,455,5.1,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,bc631250
+8,Raphael Alemão,br BRA,LT,Paraná,21,1996,7,3,280,3.1,0,0,0,0,0,0,1,1,,,,000,000,000,000,000,Partidas,7e23071f
+9,Alerrandro,br BRA,AT,Atlético Mineiro,18,2000,8,2,202,2.2,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,3415a44d
+10,Matheus Alessandro,br BRA,LTAT,Fluminense,21,1996,23,6,900,10.0,0,1,1,0,0,0,4,1,,,,000,010,010,000,010,Partidas,4f64b89f
+11,Alesson,br BRA,LTAT,Paraná,18,1999,7,2,239,2.7,0,0,0,0,0,0,3,0,,,,000,000,000,000,000,Partidas,611e984e
+12,Alex,br BRA,ZG,Fluminense,18,1999,1,0,14,0.2,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,7367baf7
+13,Alison,br BRA,LT,Santos,24,1993,28,28,2.264,25.2,0,1,1,0,0,0,12,0,,,,000,004,004,000,004,Partidas,d39b373b
+14,Alisson,br BRA,LT,Grêmio,24,1993,22,12,1.413,15.7,1,3,4,1,0,0,2,0,,,,006,019,025,006,025,Partidas,99139fa4
+15,Agustín Allione,ar ARG,LT,Bahia,23,1994,10,1,196,2.2,1,1,2,1,0,0,0,0,,,,046,046,092,046,092,Partidas,cfc832a8
+16,Diego Alves,br BRA,G,Flamengo,32,1985,23,23,2.070,23.0,0,0,0,0,0,0,2,0,,,,000,000,000,000,000,Partidas,12421a7c
+17,Felipe Alves Raymundo,br BRA,G,Atl Paranaense,29,1988,6,6,540,6.0,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,7fbe8689
+18,Ronaldo Alves,br BRA,ZG,Sport Recife,28,1989,29,27,2.426,27.0,0,0,0,0,0,0,9,0,,,,000,000,000,000,000,Partidas,f089b25e
+19,Tiago Alves,br BRA,ZG,Ceará,33,1984,28,26,2.320,25.8,1,0,1,1,0,0,4,0,,,,004,000,004,004,004,Partidas,597a34c7
+20,Jonatan Álvez,uy URU,AT,Internacional,29,1988,17,10,798,8.9,4,0,4,4,0,0,6,0,,,,045,000,045,045,045,Partidas,671ebe75
+21,Amaral,br BRA,LT,Chapecoense,31,1986,24,22,1.941,21.6,0,0,0,0,0,0,3,0,,,,000,000,000,000,000,Partidas,a19bfce8
+22,Anderson,br BRA,G,Bahia,34,1983,14,12,1.128,12.5,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,7ffcf9d0
+23,Thonny Anderson,br BRA,ATLT,Grêmio,20,1997,16,5,591,6.6,3,1,4,3,0,0,0,0,,,,046,015,061,046,061,Partidas,7a7c9837
+24,Rodrigo Andrade,br BRA,LTZG,Vitória,20,1997,22,18,1.313,14.6,0,0,0,0,0,0,6,0,,,,000,000,000,000,000,Partidas,41b628fe
+25,Tomás Andrade,ar ARG,LT,Atlético Mineiro,21,1996,17,8,662,7.4,3,2,5,3,0,0,1,0,,,,041,027,068,041,068,Partidas,d43c4b3a
+26,Victor Andrade,br BRA,LT,Chapecoense,22,1995,6,6,362,4.0,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,1dc83c51
+27,André,br BRA,AT,Grêmio,27,1990,24,19,1.495,16.6,4,0,4,3,1,1,5,0,,,,024,000,024,018,018,Partidas,13b52dec
+28,Paulo André,br BRA,ZG,Atl Paranaense,34,1983,11,11,928,10.3,1,0,1,1,0,0,5,0,,,,010,000,010,010,010,Partidas,996c6787
+29,Andrey,br BRA,LTAT,Paraná,17,2000,9,7,624,6.9,1,2,3,1,0,0,3,2,,,,014,029,043,014,043,Partidas,0895499c
+30,Andrigo,br BRA,LTZG,Sport Recife,22,1995,17,9,887,9.9,0,0,0,0,0,0,2,0,,,,000,000,000,000,000,Partidas,8b400e13
+31,Luiz Antônio,br BRA,LT,Chapecoense,26,1991,5,4,291,3.2,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,b462c35b
+32,Marco Antônio,br BRA,LTAT,Bahia,20,1997,10,5,433,4.8,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,94cc9e88
+33,Antony,br BRA,ATLT,São Paulo,17,2000,3,0,46,0.5,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,99127249
+34,Apodi,br BRA,ZG,Chapecoense,31,1986,11,11,948,10.5,0,2,2,0,0,0,0,0,,,,000,019,019,000,019,Partidas,affbe6bc
+35,Willian Arão,br BRA,LT,Flamengo,25,1992,23,15,1.461,16.2,2,2,4,2,0,0,6,1,,,,012,012,025,012,025,Partidas,f47a530a
+36,Ángelo Araos,cl CHI,LT,Corinthians,21,1997,15,6,575,6.4,0,1,1,0,0,0,3,1,,,,000,016,016,000,016,Partidas,c8e4f105
+37,Felipe Araruna,br BRA,ZGLT,São Paulo,21,1996,11,7,644,7.2,0,1,1,0,0,0,2,1,,,,000,014,014,000,014,Partidas,d6b94d77
+38,Márcio Araújo,br BRA,LT,Chapecoense,33,1984,30,30,2.412,26.8,0,0,0,0,0,0,3,0,,,,000,000,000,000,000,Partidas,f5affa62
+39,Vinícius Araújo,br BRA,LT,Vasco da Gama,24,1993,5,1,200,2.2,0,0,0,0,0,0,3,0,,,,000,000,000,000,000,Partidas,5d6b9376
+40,Robert Arboleda,ec ECU,ZG,São Paulo,26,1991,26,26,2.334,25.9,0,2,2,0,0,0,7,0,,,,000,008,008,000,008,Partidas,269dbfc6
+41,Arnaldo,br BRA,LTZG,Ceará,25,1992,12,4,404,4.5,0,0,0,0,0,0,2,0,,,,000,000,000,000,000,Partidas,58ac8926
+42,Arouca,br BRA,LT,Vitória,31,1986,11,10,812,9.0,0,0,0,0,0,0,4,0,,,,000,000,000,000,000,Partidas,b96444f3
+43,Arthur,br BRA,AT,Ceará,19,1998,31,27,2.462,27.4,7,2,9,7,0,1,5,0,,,,026,007,033,026,033,Partidas,a820e429
+44,Arthur,br BRA,LTAT,Santos,19,1998,13,4,413,4.6,0,1,1,0,0,0,1,0,,,,000,022,022,000,022,Partidas,184ad240
+45,Arthur,br BRA,LT,Chapecoense,25,1992,11,11,877,9.7,4,0,4,4,0,0,3,0,,,,041,000,041,041,041,Partidas,4a870f60
+46,Artur,,LT,Palmeiras,19,1998,5,1,115,1.3,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,1313bfb3
+47,Felipe Augusto,br BRA,AT,Paraná,25,1992,4,1,187,2.1,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,9a20c960
+48,Fernando Augusto,br BRA,G,Bahia,20,1997,2,0,105,1.2,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,b8a82624
+49,Giovanni Augusto,br BRA,LT,Vasco da Gama,28,1989,19,9,1.012,11.2,0,2,2,0,0,1,3,0,,,,000,018,018,000,018,Partidas,2f94a698
+50,Danilo Avelar,br BRA,ZG,Corinthians,28,1989,19,19,1.710,19.0,1,1,2,1,0,0,2,0,,,,005,005,011,005,011,Partidas,eacb45fd
+51,Aylon,br BRA,LTAT,América (MG),25,1992,14,11,955,10.6,0,1,1,0,0,0,2,0,,,,000,009,009,000,009,Partidas,a87daabb
+52,Felipe Azevedo,br BRA,LTAT,Ceará,31,1987,32,17,1.620,18.0,1,3,4,1,0,0,1,0,,,,006,017,022,006,022,Partidas,4a22b15a
+53,Márcio Azevedo,br BRA,ZG,Atl Paranaense,31,1986,11,6,607,6.7,0,0,0,0,0,0,2,0,,,,000,000,000,000,000,Partidas,53fc526b
+54,Marcelo Báez,py PAR,ZG,Paraná,27,1991,3,0,119,1.3,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,c3b5fad3
+55,Fabián Balbuena,py PAR,ZG,Corinthians,26,1991,8,8,720,8.0,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,3626f7d9
+56,Robson Bambu,br BRA,ZG,Santos,20,1997,9,8,728,8.1,0,0,0,0,0,0,3,0,,,,000,000,000,000,000,Partidas,d4fa7d01
+57,Diogo Barbosa,br BRA,ZG,Palmeiras,25,1992,20,17,1.601,17.8,0,2,2,0,0,0,8,0,,,,000,011,011,000,011,Partidas,7b9ef26b
+58,Gabriel Barbosa,br BRA,ATLT,Santos,21,1996,35,34,2.964,32.9,18,2,20,16,2,3,9,0,,,,055,006,061,049,055,Partidas,72d0e1b6
+59,Hernán Barcos,ar ARG,AT,Cruzeiro,33,1984,14,11,930,10.3,1,1,2,1,0,1,1,0,,,,010,010,019,010,019,Partidas,dcebe285
+60,Nery Bareiro,py PAR,ZG,Chapecoense,29,1988,8,8,720,8.0,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,b2626610
+61,Barreto,br BRA,LT,Chapecoense,22,1995,9,5,436,4.8,0,0,0,0,0,0,2,1,,,,000,000,000,000,000,Partidas,de08d383
+62,Fellipe Bastos,br BRA,LT,Sport Recife,27,1990,29,20,1.908,21.2,1,1,2,1,0,0,3,0,,,,005,005,009,005,009,Partidas,9b99eae0
+63,Michel Bastos,br BRA,LTAT,Sport Recife,34,1983,23,15,1.523,16.9,4,3,7,3,1,1,1,0,,,,024,018,041,018,035,Partidas,014a3e8c
+64,Alexander Baumjohann,de GER,LT,Vitória,31,1987,3,1,68,0.8,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,0300e2dc
+65,Rodrigo Becão,br BRA,ZG,Bahia,22,1996,1,1,45,0.5,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,19e4eab9
+66,Ramiro Benetti,br BRA,LT,Grêmio,24,1993,21,21,1.773,19.7,0,1,1,0,0,0,10,0,,,,000,005,005,000,005,Partidas,96d14fe7
+67,Marcelo Benitez,ar ARG,ZG,Vitória,27,1991,8,8,640,7.1,0,2,2,0,0,0,3,0,,,,000,028,028,000,028,Partidas,6b6c72ac
+68,Orlando Berrío,co COL,ATLT,Flamengo,26,1991,9,0,149,1.7,0,1,1,0,0,0,0,0,,,,000,060,060,000,060,Partidas,ae7bb5f5
+69,Rafael Bilu,br BRA,LT,Corinthians,18,1999,1,0,10,0.1,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,26880429
+70,Bruno Bispo,br BRA,ZG,Vitória,21,1996,6,4,415,4.6,0,0,0,0,0,0,2,0,,,,000,000,000,000,000,Partidas,c6dfb5cd
+71,Guilherme Biteco,br BRA,LT,Paraná,23,1994,5,1,121,1.3,1,0,1,1,0,0,3,0,,,,074,000,074,074,074,Partidas,2a2d3674
+72,Gustavo Blanco,br BRA,LT,Atlético Mineiro,23,1994,11,11,899,10.0,0,4,4,0,0,0,4,0,,,,000,040,040,000,040,Partidas,f70e28e3
+73,Gustavo Bochecha,br BRA,LT,Botafogo (RJ),21,1996,17,15,1.171,13.0,0,1,1,0,0,0,4,0,,,,000,008,008,000,008,Partidas,90b0828a
+74,Breno Borges,br BRA,ZG,Vasco da Gama,28,1989,5,5,449,5.0,0,0,0,0,0,0,2,1,,,,000,000,000,000,000,Partidas,904b0bd9
+75,Marllon Borges,br BRA,ZG,Corinthians,25,1992,3,3,270,3.0,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,d0b29bbd
+76,Miguel Borja,co COL,AT,Palmeiras,25,1993,16,15,1.103,12.3,3,1,4,3,0,0,5,0,,,,024,008,033,024,033,Partidas,211dc5fd
+77,Pedro Bortoluzo,br BRA,AT,São Paulo,21,1996,1,0,19,0.2,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,4931aa8a
+78,Pedro Botelho,br BRA,ZG,Vitória,28,1989,5,5,407,4.5,1,0,1,1,0,0,0,0,,,,022,000,022,022,022,Partidas,1f933029
+79,Walter Bou,ar ARG,ATLT,Vitória,24,1993,8,7,485,5.4,0,0,0,0,0,0,2,0,,,,000,000,000,000,000,Partidas,b5143c97
+80,David Braz,br BRA,ZG,Santos,30,1987,13,13,1.170,13.0,0,0,0,0,0,0,3,0,,,,000,000,000,000,000,Partidas,9313b408
+81,Gleison Bremer,br BRA,ZG,Atlético Mineiro,20,1997,11,9,855,9.5,1,0,1,1,0,0,2,0,,,,011,000,011,011,011,Partidas,5fd5ed86
+82,Brenner,br BRA,AT,São Paulo,18,2000,6,1,195,2.2,1,0,1,1,0,0,0,0,,,,046,000,046,046,046,Partidas,279508bf
+83,Brenner,br BRA,LT,Internacional,19,1999,7,0,113,1.3,0,0,0,0,0,0,2,0,,,,000,000,000,000,000,Partidas,32d333f0
+84,Bressan,br BRA,ZG,Grêmio,25,1993,21,20,1.746,19.4,1,0,1,1,0,0,3,0,,,,005,000,005,005,005,Partidas,3db1684c
+85,Eduardo Brock,br BRA,ZG,Ceará,26,1991,8,3,361,4.0,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,70774644
+86,Júnior Brumado,br BRA,AT,Bahia,18,1999,14,4,443,4.9,1,0,1,1,0,0,3,0,,,,020,000,020,020,020,Partidas,bccc1bb4
+87,Bruninho,br BRA,LT,Atlético Mineiro,17,2000,5,0,110,1.2,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,f7a3e78a
+88,Bruno,br BRA,LT,Paraná,18,1999,1,0,16,0.2,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,499bd557
+89,Fabrício Bruno,br BRA,ZG,Chapecoense,21,1996,7,7,630,7.0,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,470d197b
+90,Ricardo Bueno,br BRA,AT,Ceará,30,1987,6,2,190,2.1,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,768cbb2d
+91,Vitor Bueno,br BRA,LT,Santos,23,1994,5,2,165,1.8,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,5752f96d
+92,Bryan Cabezas,ec ECU,LT,Fluminense,20,1997,5,2,181,2.0,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,061f1eed
+93,Ariel Cabral,ar ARG,LT,Cruzeiro,30,1987,21,18,1.538,17.1,0,1,1,0,0,0,9,0,,,,000,006,006,000,006,Partidas,cbd26ff3
+94,Patric Cabral Lalau,br BRA,ZG,Atlético Mineiro,28,1989,18,16,1.526,17.0,0,1,1,0,0,0,4,0,,,,000,006,006,000,006,Partidas,16cd17b7
+95,Cacá,br BRA,ZG,Cruzeiro,18,1999,2,2,180,2.0,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,27f4a416
+96,Rodrigo Caio,br BRA,ZG,São Paulo,24,1993,6,5,414,4.6,0,0,0,0,0,0,2,0,,,,000,000,000,000,000,Partidas,186ed8f1
+97,Caíque,br BRA,G,Vitória,20,1997,5,5,450,5.0,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,49892b6e
+98,Caique,br BRA,ZG,São Paulo,19,1998,1,0,20,0.2,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,263c6b70
+99,Gabriel Calabres,br BRA,LT,Santos,19,1998,1,0,20,0.2,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,5ccf9ac5
+100,Marquinhos Calazans,br BRA,LT,Fluminense,21,1996,1,0,22,0.2,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,2c93386e
+101,Calyson,br BRA,LT,Ceará,24,1993,22,18,1.474,16.4,3,0,3,3,0,0,3,0,,,,018,000,018,018,018,Partidas,a0b3ebbb
+102,Guilherme Camacho,br BRA,LT,Atl Paranaense,27,1990,19,16,1.434,15.9,1,0,1,1,0,0,4,1,,,,006,000,006,006,006,Partidas,61a6775b
+103,Fernando Camilo Farias,br BRA,LT,Internacional,31,1986,15,4,507,5.6,1,2,3,1,0,0,0,0,,,,018,036,053,018,053,Partidas,48c1930e
+104,Edinho Campos,br BRA,LT,Ceará,35,1983,18,18,1.580,17.6,0,0,0,0,0,0,4,0,,,,000,000,000,000,000,Partidas,d31b1009
+105,Lucas Cândido,br BRA,LT,Atlético Mineiro,24,1993,7,0,137,1.5,0,0,0,0,0,0,0,1,,,,000,000,000,000,000,Partidas,04d91910
+106,Héctor Canteros,ar ARG,LT,Chapecoense,28,1989,34,26,2.407,26.7,2,3,5,2,0,0,5,0,,,,007,011,019,007,019,Partidas,82d5eeaa
+107,Capixaba,br BRA,LT,América (MG),21,1997,3,0,50,0.6,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,ea2634a1
+108,Capixaba,br BRA,LT,Chapecoense,21,1997,3,1,108,1.2,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,ea2634a1
+109,Juninho Capixaba,br BRA,ZG,Corinthians,20,1997,2,1,135,1.5,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,91ba7336
+110,Juninho Capixaba,br BRA,LTZG,Grêmio,20,1997,4,4,360,4.0,3,0,3,2,1,1,1,0,,,,075,000,075,050,050,Partidas,91ba7336
+111,Jown Cardona,co COL,LT,Ceará,23,1995,7,2,281,3.1,0,0,0,0,0,0,2,0,,,,000,000,000,000,000,Partidas,41e1b1f3
+112,Felippe Cardoso,br BRA,AT,Santos,19,1998,4,3,262,2.9,1,0,1,1,0,0,0,0,,,,034,000,034,034,034,Partidas,7a2bbdf3
+113,Rafael Carioca,br BRA,ZGLT,Ceará,25,1992,5,4,394,4.4,0,0,0,0,0,0,3,0,,,,000,000,000,000,000,Partidas,0343e5b1
+114,Igor Cariús,br BRA,ZG,Paraná,24,1993,24,24,2.075,23.1,0,0,0,0,0,0,7,0,,,,000,000,000,000,000,Partidas,662475de
+115,Thiago Carleto,br BRA,LTZG,Atl Paranaense,28,1989,12,12,1.037,11.5,2,3,5,2,0,0,2,0,,,,017,026,043,017,043,Partidas,1c50ba0b
+116,Joel Carli,ar ARG,ZG,Botafogo (RJ),31,1986,29,29,2.587,28.7,1,0,1,1,0,0,12,0,,,,003,000,003,003,003,Partidas,00d6e369
+117,Carlinhos,br BRA,ZG,América (MG),31,1986,27,26,2.248,25.0,2,0,2,2,0,0,9,0,,,,008,000,008,008,008,Partidas,f33a3149
+118,Carlos,br BRA,LTAT,Paraná,22,1995,19,16,1.407,15.6,1,0,1,1,0,0,6,0,,,,006,000,006,006,006,Partidas,901e930c
+119,Carlos,br BRA,ZG,Corinthians,19,1999,7,7,630,7.0,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,8d3cd59d
+120,Antonio Carlos,br BRA,ZG,Palmeiras,24,1993,22,21,1.945,21.6,1,1,2,1,0,0,4,0,,,,005,005,009,005,009,Partidas,949fe1e8
+121,João Carlos,br BRA,AT,Fluminense,22,1995,6,2,245,2.7,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,0cc9e053
+122,Luís Carlos,br BRA,G,Paraná,30,1987,1,0,45,0.5,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,0e58dcce
+123,Gonzalo Carneiro,uy URU,AT,São Paulo,22,1995,13,4,392,4.4,1,0,1,1,0,0,2,0,,,,023,000,023,023,023,Partidas,88f6ffd1
+124,Leandro Carvalho,br BRA,LT,Ceará,22,1995,20,19,1.530,17.0,5,4,9,5,0,0,6,1,,,,029,024,053,029,053,Partidas,492812cf
+125,Leandro Carvalho,br BRA,LT,Botafogo (RJ),22,1995,1,1,63,0.7,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,492812cf
+126,Cássio,br BRA,G,Corinthians,30,1987,27,27,2.377,26.4,0,0,0,0,0,0,3,0,,,,000,000,000,000,000,Partidas,d42f6326
+127,Leandro Castán,br BRA,ZG,Vasco da Gama,31,1986,15,15,1.290,14.3,0,0,0,0,0,0,5,1,,,,000,000,000,000,000,Partidas,019f4d0d
+128,Juan Cazares,ec ECU,LT,Atlético Mineiro,25,1992,31,25,2.321,25.8,8,6,14,8,0,0,2,0,,,,031,023,054,031,054,Partidas,754368cb
+129,Anderson Ceará,br BRA,LT,Santos,18,1999,1,0,16,0.2,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,ee8f7dc5
+130,Dudu Cearense,br BRA,LT,Botafogo (RJ),34,1983,2,1,82,0.9,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,f7f68380
+131,Cedric,br BRA,ZG,Vitória,19,1998,6,5,477,5.3,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,6c76b90a
+132,Murilo Cerqueira,br BRA,ZG,Cruzeiro,20,1997,9,9,771,8.6,0,0,0,0,0,0,2,0,,,,000,000,000,000,000,Partidas,10fe831e
+133,César,br BRA,G,Flamengo,26,1992,14,14,1.260,14.0,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,7f6296b9
+134,Júlio César,br BRA,G,Flamengo,38,1979,1,1,90,1.0,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,f619413f
+135,Júlio César,br BRA,G,Fluminense,31,1986,35,35,3.105,34.5,0,0,0,0,0,0,2,0,,,,000,000,000,000,000,Partidas,f4213f59
+136,Roberto César,br BRA,ATLT,Ceará,32,1985,3,0,68,0.8,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,90e300c5
+137,Yimmi Chará,co COL,LTAT,Atlético Mineiro,26,1991,22,22,1.848,20.5,1,7,8,1,0,0,1,0,,,,005,034,039,005,039,Partidas,9df9baab
+138,Renato Chaves,br BRA,ZG,Fluminense,27,1990,10,10,837,9.3,0,1,1,0,0,0,2,0,,,,000,011,011,000,011,Partidas,2a51efe8
+139,Marcelo Cirino,br BRA,LTAT,Atl Paranaense,26,1992,17,13,1.002,11.1,4,0,4,4,0,0,1,0,,,,036,000,036,036,036,Partidas,6ba81b35
+140,Léo Cittadini,br BRA,LT,Santos,23,1994,12,4,435,4.8,0,1,1,0,0,0,2,0,,,,000,021,021,000,021,Partidas,68410185
+141,Clayson,br BRA,LT,Corinthians,22,1995,23,12,1.173,13.0,1,1,2,1,0,0,3,0,,,,008,008,015,008,015,Partidas,85c1009d
+142,Clayton,br BRA,LT,Bahia,22,1995,9,1,217,2.4,1,0,1,0,1,1,1,0,,,,041,000,041,000,000,Partidas,ba1a92ff
+143,Cléber,br BRA,ZG,Paraná,27,1990,12,12,971,10.8,0,0,0,0,0,0,1,1,,,,000,000,000,000,000,Partidas,20c981ba
+144,Jonathan Copete,co COL,LTAT,Santos,30,1988,18,3,465,5.2,1,0,1,1,0,0,0,0,,,,019,000,019,019,019,Partidas,ce070a45
+145,Uillian Correia,br BRA,LT,Vitória,28,1989,5,5,405,4.5,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,392daca8
+146,Bruno Cortez,br BRA,ZG,Grêmio,30,1987,26,26,2.325,25.8,0,0,0,0,0,0,3,0,,,,000,000,000,000,000,Partidas,a3a1198a
+147,Bruno Cosendey,br BRA,LT,Vasco da Gama,21,1997,12,7,553,6.1,1,1,2,1,0,0,2,0,,,,016,016,033,016,033,Partidas,e48320b7
+148,Guilherme Costa,br BRA,LT,Vitória,23,1994,6,1,172,1.9,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,388bc3ad
+149,Douglas Coutinho,br BRA,LT,Ceará,23,1994,5,2,181,2.0,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,19a55263
+150,Diogo Vitor da Cruz,br BRA,LT,Santos,20,1997,1,1,78,0.9,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,1ce83881
+151,Crysan,br BRA,ATLT,Atl Paranaense,21,1996,1,0,17,0.2,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,70acbadc
+152,Gustavo Cuellar,co COL,LT,Flamengo,25,1992,28,27,2.309,25.7,0,2,2,0,0,0,6,3,,,,000,008,008,000,008,Partidas,cdd22fcf
+153,Víctor Cuesta,ar ARG,ZG,Internacional,29,1988,34,34,3.049,33.9,2,2,4,2,0,0,13,1,,,,006,006,012,006,012,Partidas,39fb428f
+154,Christian Cueva,pe PER,LT,São Paulo,26,1991,3,2,177,2.0,0,2,2,0,0,0,0,0,,,,000,102,102,000,102,Partidas,57376761
+155,Andrés D'Alessandro,ar ARG,LT,Internacional,36,1981,24,12,1.265,14.1,3,2,5,0,3,3,5,1,,,,021,014,036,000,014,Partidas,6a11048a
+156,Robert Piris Da Motta,py PAR,LT,Flamengo,23,1994,11,6,541,6.0,0,0,0,0,0,0,3,0,,,,000,000,000,000,000,Partidas,66fa6e87
+157,Leandro Damião,br BRA,AT,Internacional,28,1989,26,19,1.717,19.1,10,1,11,9,1,2,3,0,,,,052,005,058,047,052,Partidas,8e0eac01
+158,Daniel,br BRA,G,Internacional,23,1994,1,0,45,0.5,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,636fc976
+159,Danielzinho,br BRA,LT,Fluminense,22,1996,5,1,154,1.7,0,1,1,0,0,0,0,0,,,,000,058,058,000,058,Partidas,832ab167
+160,Danilo,br BRA,ATLT,Corinthians,38,1979,13,6,490,5.4,2,0,2,2,0,0,0,0,,,,037,000,037,037,037,Partidas,74d69978
+161,David,br BRA,LTAT,Cruzeiro,22,1995,19,12,1.011,11.2,1,1,2,1,0,0,1,0,,,,009,009,018,009,018,Partidas,92f9ace5
+162,David,br BRA,LT,América (MG),35,1982,9,6,471,5.2,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,8f4a5147
+163,David,br BRA,G,Paraná,22,1995,3,3,270,3.0,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,754bc718
+164,Giorgian De Arrascaeta,uy URU,LT,Cruzeiro,23,1994,20,14,1.337,14.9,6,6,12,6,0,0,4,0,,,,040,040,081,040,081,Partidas,be8d02dd
+165,Dedé,br BRA,ZG,Cruzeiro,29,1988,20,20,1.800,20.0,3,0,3,3,0,0,6,0,,,,015,000,015,015,015,Partidas,8847d5c3
+166,Deivid,br BRA,LT,Atl Paranaense,29,1989,1,0,5,0.1,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,14142c12
+167,Deivid,br BRA,LT,Sport Recife,29,1989,16,13,1.088,12.1,0,0,0,0,0,0,6,0,,,,000,000,000,000,000,Partidas,14142c12
+168,Denílson,br BRA,AT,Vitória,22,1995,6,5,463,5.1,2,0,2,2,0,0,0,0,,,,039,000,039,039,039,Partidas,4447f575
+169,Denílson,br BRA,AT,Atlético Mineiro,22,1995,8,1,241,2.7,0,0,0,0,0,0,2,0,,,,000,000,000,000,000,Partidas,4447f575
+170,Derlan,br BRA,ZG,Grêmio,21,1996,1,0,14,0.2,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,33fe8402
+171,Agenor Detofol,br BRA,G,Sport Recife,28,1989,1,1,90,1.0,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,2cdeba2b
+172,Deyverson,br BRA,AT,Palmeiras,26,1991,26,11,1.225,13.6,9,2,11,9,0,0,5,1,,,,066,015,081,066,081,Partidas,2e5e846d
+173,Ricardo Dias Acosta,br BRA,LT,Ceará,32,1985,26,20,1.626,18.1,1,2,3,1,0,0,5,0,,,,006,011,017,006,017,Partidas,8284b911
+174,Gabriel Dias,br BRA,LTZG,Internacional,23,1994,8,4,368,4.1,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,b1a405dc
+175,Ernandes Dias Luz,br BRA,LT,Ceará,30,1987,1,1,90,1.0,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,c286d595
+176,Sergio Díaz,py PAR,LT,Corinthians,19,1998,2,1,89,1.0,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,877d1631
+177,Diego,br BRA,ZG,Atl Paranaense,21,1996,9,7,701,7.8,0,1,1,0,0,0,1,0,,,,000,013,013,000,013,Partidas,5763e584
+178,Diego,br BRA,LT,Flamengo,32,1985,26,22,2.026,22.5,6,3,9,5,1,1,10,1,,,,027,013,040,022,036,Partidas,255a478a
+179,Diego,br BRA,G,Botafogo (RJ),19,1998,1,1,90,1.0,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,6b023405
+180,Digão,br BRA,ZG,Fluminense,29,1988,24,24,2.160,24.0,1,0,1,1,0,0,4,0,,,,004,000,004,004,004,Partidas,66a50cd7
+181,Dodi,br BRA,LT,Fluminense,21,1996,17,11,923,10.3,0,0,0,0,0,0,4,0,,,,000,000,000,000,000,Partidas,2830b8f7
+182,Dodô,br BRA,ZG,Santos,25,1992,36,36,3.207,35.6,1,3,4,1,0,0,6,0,,,,003,008,011,003,011,Partidas,99931185
+183,Agustín Doffo,ar ARG,LT,Chapecoense,22,1995,15,11,893,9.9,3,0,3,3,0,0,3,0,,,,030,000,030,030,030,Partidas,d4eddba8
+184,Leandro Donizete,br BRA,LT,América (MG),35,1982,26,23,2.071,23.0,0,0,0,0,0,0,9,1,,,,000,000,000,000,000,Partidas,7b83b9eb
+185,Douglas dos Santos,br BRA,LTAT,Grêmio,35,1982,14,7,684,7.6,2,1,3,1,1,1,1,0,,,,026,013,039,013,026,Partidas,04e49c58
+186,Thiago dos Santos,br BRA,LT,Palmeiras,28,1989,23,16,1.445,16.1,1,0,1,1,0,0,5,0,,,,006,000,006,006,006,Partidas,5408d2b2
+187,Douglas,br BRA,LT,Fluminense,21,1997,6,3,300,3.3,0,1,1,0,0,0,2,0,,,,000,030,030,000,030,Partidas,301c287b
+188,Douglas,br BRA,ZG,Chapecoense,27,1990,31,31,2.779,30.9,0,0,0,0,0,0,4,1,,,,000,000,000,000,000,Partidas,71687133
+189,Douglas,br BRA,LT,Corinthians,21,1997,15,14,1.128,12.5,1,0,1,1,0,0,5,1,,,,008,000,008,008,008,Partidas,301c287b
+190,Henrique Dourado,br BRA,AT,Flamengo,28,1989,20,16,1.169,13.0,6,0,6,4,2,2,6,1,,,,046,000,046,031,031,Partidas,9b010360
+191,Rodrigo Dourado,br BRA,LT,Internacional,23,1994,33,33,2.962,32.9,1,1,2,1,0,0,11,0,,,,003,003,006,003,006,Partidas,d7d05a22
+192,Edu Dracena,br BRA,ZG,Palmeiras,36,1981,20,20,1.799,20.0,2,0,2,2,0,0,5,1,,,,010,000,010,010,010,Partidas,1b741415
+193,Léo Duarte,br BRA,ZG,Flamengo,21,1996,33,33,2.938,32.6,1,0,1,1,0,0,3,0,,,,003,000,003,003,003,Partidas,73ddc40c
+194,Dudu,br BRA,LT,Vasco da Gama,19,1998,1,0,12,0.1,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,93fe8c5e
+195,Dudu,br BRA,AT,Fluminense,18,1999,1,0,30,0.3,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,5d24ad61
+196,Dudu,br BRA,LT,Palmeiras,26,1992,31,28,2.466,27.4,7,14,21,7,0,1,9,1,,,,026,051,077,026,077,Partidas,895ef5ec
+197,Durval,br BRA,ZG,Sport Recife,37,1980,9,8,694,7.7,0,0,0,0,0,0,2,1,,,,000,000,000,000,000,Partidas,075f0f24
+198,Junior Dutra,br BRA,LTAT,Fluminense,29,1988,14,7,690,7.7,0,1,1,0,0,0,1,0,,,,000,013,013,000,013,Partidas,2d1c93bd
+199,Junior Dutra,br BRA,LT,Corinthians,29,1988,5,1,149,1.7,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,2d1c93bd
+200,Pablo Dyego,br BRA,LT,Fluminense,23,1994,11,2,369,4.1,2,0,2,2,0,0,0,0,,,,049,000,049,049,049,Partidas,fce54d7d
+201,Edenílson,br BRA,LT,Internacional,28,1989,33,33,2.901,32.2,3,5,8,3,0,0,9,1,,,,009,016,025,009,025,Partidas,4e50f20e
+202,Éderson,br BRA,LT,Cruzeiro,18,1999,5,2,178,2.0,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,a9202def
+203,Éderson,br BRA,AT,Atl Paranaense,28,1989,4,0,102,1.1,1,0,1,1,0,0,0,0,,,,088,000,088,088,088,Partidas,057059ad
+204,Edinho,br BRA,LT,Atlético Mineiro,23,1994,6,1,87,1.0,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,a8cedcd9
+205,Edson,br BRA,LT,Bahia,26,1991,5,2,219,2.4,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,041250aa
+206,Eduardo,br BRA,ZG,Chapecoense,31,1986,30,26,2.383,26.5,0,4,4,0,0,0,3,0,,,,000,015,015,000,015,Partidas,066c0e3e
+207,Carlos Eduardo,br BRA,LTAT,Paraná,30,1987,9,4,458,5.1,0,0,0,0,0,0,2,0,,,,000,000,000,000,000,Partidas,f8b7e8ff
+208,Élber,br BRA,LT,Bahia,25,1992,29,23,1.993,22.1,4,5,9,4,0,0,8,0,,,,018,023,041,018,041,Partidas,0df8c3bc
+209,Elías,br BRA,LT,Atlético Mineiro,32,1985,33,24,2.332,25.9,5,4,9,5,0,0,10,0,,,,019,015,035,019,035,Partidas,97ce8f24
+210,Elicarlos,br BRA,LT,Chapecoense,32,1985,27,23,2.015,22.4,2,0,2,2,0,0,3,0,,,,009,000,009,009,009,Partidas,62413eca
+211,Elton,br BRA,LT,Bahia,27,1990,28,27,2.334,25.9,0,4,4,0,0,0,8,0,,,,000,015,015,000,015,Partidas,42b5868b
+212,Emerson,br BRA,ZG,Atlético Mineiro,19,1999,23,23,2.029,22.5,1,1,2,1,0,0,7,0,,,,004,004,009,004,009,Partidas,df8b52a5
+213,Frickson Erazo,ec ECU,ZG,Vasco da Gama,29,1988,4,3,286,3.2,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,4ec7211b
+214,Erick,br BRA,LTAT,Vitória,20,1997,19,14,1.229,13.7,2,2,4,2,0,0,3,0,,,,015,015,029,015,029,Partidas,8edcad0d
+215,Ernando,br BRA,ZG,Sport Recife,29,1988,32,32,2.793,31.0,0,0,0,0,0,0,4,0,,,,000,000,000,000,000,Partidas,f1c586b9
+216,Eronildo,br BRA,AT,Vitória,19,1998,2,0,78,0.9,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,612e631c
+217,Evander,br BRA,LT,Vasco da Gama,19,1998,7,2,245,2.7,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,4352d221
+218,Evandro,br BRA,ZG,Sport Recife,21,1997,2,2,148,1.6,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,d24e0947
+219,Everaldo,br BRA,LT,Fluminense,23,1994,23,14,1.314,14.6,1,6,7,1,0,0,3,0,,,,007,041,048,007,048,Partidas,bdb57777
+220,Everson,br BRA,ZG,Bahia,20,1997,10,6,633,7.0,0,1,1,0,0,0,2,0,,,,000,014,014,000,014,Partidas,d7d6c525
+221,Éverson,br BRA,G,Ceará,27,1990,37,37,3.330,37.0,1,0,1,1,0,0,5,0,,,,003,000,003,003,003,Partidas,a59c090b
+222,Éverton,br BRA,LT,São Paulo,29,1988,27,25,2.184,24.3,5,6,11,5,0,0,7,0,,,,021,025,045,021,045,Partidas,f50a3570
+223,Ezequiel,br BRA,ZG,Cruzeiro,24,1993,15,14,1.299,14.4,0,0,0,0,0,0,6,0,,,,000,000,000,000,000,Partidas,63878f62
+224,Ezequiel,br BRA,LT,Botafogo (RJ),19,1998,10,1,199,2.2,0,1,1,0,0,0,0,0,,,,000,045,045,000,045,Partidas,388ccd91
+225,Diego Fabián Torres,ar ARG,LT,Chapecoense,27,1990,17,12,929,10.3,2,1,3,2,0,0,5,0,,,,019,010,029,019,029,Partidas,cbf72aef
+226,Fabiano,br BRA,ZG,Vitória,27,1990,12,10,980,10.9,1,2,3,1,0,0,2,0,,,,009,018,028,009,028,Partidas,883565cd
+227,Bruno Fabiano Alves,br BRA,ZG,São Paulo,26,1991,28,28,2.475,27.5,2,0,2,2,0,0,9,0,,,,007,000,007,007,007,Partidas,3e0cfaf4
+228,Fábio,br BRA,G,Cruzeiro,37,1980,30,30,2.700,30.0,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,15825726
+229,Fabrício,br BRA,LTZG,Vasco da Gama,31,1987,10,10,688,7.6,1,1,2,1,0,0,3,0,,,,013,013,026,013,026,Partidas,5cd6c14b
+230,Fabrício,br BRA,ZG,Sport Recife,19,1998,3,1,118,1.3,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,88e376d7
+231,Fagner,br BRA,ZG,Corinthians,28,1989,20,20,1.718,19.1,0,4,4,0,0,0,4,0,,,,000,021,021,000,021,Partidas,a9cc58fe
+232,Willian Farias,br BRA,LT,Vitória,28,1989,21,17,1.511,16.8,0,1,1,0,0,0,2,0,,,,000,006,006,000,006,Partidas,d1fcff2f
+233,Vitor Feijão,br BRA,ATLT,Paraná,21,1996,3,0,65,0.7,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,d2bcf1de
+234,Everton Felipe,br BRA,LT,São Paulo,20,1997,6,3,213,2.4,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,70396c75
+235,Everton Felipe,br BRA,LT,Sport Recife,20,1997,6,1,171,1.9,1,0,1,1,0,0,0,0,,,,053,000,053,053,053,Partidas,70396c75
+236,Luis Felipe,br BRA,ZG,Santos,24,1993,13,11,1.130,12.6,0,0,0,0,0,0,5,0,,,,000,000,000,000,000,Partidas,746c8624
+237,Danilo Fernandes,br BRA,G,Internacional,29,1988,14,14,1.215,13.5,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,ed05acdc
+238,Lucas Fernandes,br BRA,LTAT,Vitória,23,1994,30,14,1.515,16.8,3,0,3,3,0,0,4,0,,,,018,000,018,018,018,Partidas,8dec873a
+239,Lucas Fernandes,br BRA,LT,São Paulo,20,1997,7,4,268,3.0,0,0,0,0,0,0,2,1,,,,000,000,000,000,000,Partidas,a109d777
+240,Matheus Fernandes,br BRA,LT,Botafogo (RJ),19,1998,33,28,2.453,27.3,0,2,2,0,0,0,10,1,,,,000,007,007,000,007,Partidas,f76fdcd2
+241,Gatito Fernández,py PAR,G,Botafogo (RJ),29,1988,8,8,720,8.0,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,9a82f79a
+242,Fernandinho,br BRA,AT,Bahia,20,1997,2,0,42,0.5,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,877b54d5
+243,Fernando,br BRA,LT,Fluminense,25,1993,3,3,247,2.7,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,a8c2ace5
+244,Luiz Fernando,br BRA,LTAT,Botafogo (RJ),21,1996,32,26,2.206,24.5,3,1,4,3,0,0,7,0,,,,012,004,016,012,016,Partidas,824ed016
+245,Matheus Ferraz,br BRA,ZG,América (MG),32,1985,33,33,2.970,33.0,0,0,0,0,0,0,4,0,,,,000,000,000,000,000,Partidas,7154c7eb
+246,Victor Ferraz,br BRA,ZG,Santos,30,1988,32,32,2.880,32.0,3,0,3,3,0,0,6,0,,,,009,000,009,009,009,Partidas,c5712dcd
+247,Jael Ferreira,br BRA,AT,Grêmio,29,1988,20,12,1.212,13.5,6,2,8,4,2,3,3,0,,,,045,015,059,030,045,Partidas,293db875
+248,Matheus Ferreira,br BRA,AT,Corinthians,19,1998,2,0,9,0.1,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,b2dc296b
+249,Matheus Ferreira,br BRA,LT,Sport Recife,24,1993,7,4,244,2.7,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,84bbd697
+250,Rodrigo Figueiredo,br BRA,LT,Corinthians,21,1996,1,0,9,0.1,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,c9eba41e
+251,Flávio,br BRA,LTZG,Bahia,21,1996,19,8,863,9.6,0,0,0,0,0,0,3,0,,,,000,000,000,000,000,Partidas,b3ddccb7
+252,Lucas Fonseca,br BRA,ZG,Bahia,32,1985,33,33,2.925,32.5,1,0,1,1,0,0,6,0,,,,003,000,003,003,003,Partidas,01d240eb
+253,Edimar Fraga,br BRA,ZG,São Paulo,31,1986,15,11,952,10.6,0,1,1,0,0,0,2,0,,,,000,009,009,000,009,Partidas,e1bcce4c
+254,França,br BRA,LT,América (MG),22,1995,2,0,30,0.3,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,69e5d0d5
+255,Frazan,br BRA,ZG,Fluminense,21,1996,5,4,368,4.1,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,304b1f31
+256,Fred,br BRA,AT,Cruzeiro,34,1983,6,5,414,4.6,3,1,4,2,1,1,3,0,,,,065,022,087,043,065,Partidas,acaeba74
+257,Vinícius Freitas,br BRA,ZG,Chapecoense,24,1993,4,2,219,2.4,0,1,1,0,0,0,1,0,,,,000,041,041,000,041,Partidas,5102e15c
+258,Douglas Friedrich,br BRA,G,Bahia,29,1988,26,26,2.185,24.3,0,0,0,0,0,0,2,1,,,,000,000,000,000,000,Partidas,8789242d
+259,Gabriel,br BRA,ZG,Atlético Mineiro,22,1995,21,19,1.744,19.4,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,e8532222
+260,Gabriel,br BRA,LT,Corinthians,25,1992,25,23,2.041,22.7,1,0,1,1,0,0,6,0,,,,004,000,004,004,004,Partidas,e9c0d5d8
+261,Gabriel,br BRA,LT,Sport Recife,28,1990,33,31,2.706,30.1,5,3,8,5,0,1,4,0,,,,017,010,027,017,027,Partidas,8dc3be2b
+262,João Gabriel,br BRA,G,Vitória,25,1992,5,5,450,5.0,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,e606a674
+263,Marquinhos Gabriel,br BRA,LT,Corinthians,27,1990,12,4,367,4.1,1,0,1,1,0,0,1,0,,,,025,000,025,025,025,Partidas,fcd113c4
+264,Matheus Galdezani,br BRA,LT,Atlético Mineiro,25,1992,23,12,1.003,11.1,1,1,2,1,0,0,6,1,,,,009,009,018,009,018,Partidas,5042eb90
+265,Rafael Galhardo,br BRA,ZG,Vasco da Gama,26,1991,11,10,712,7.9,0,0,0,0,0,0,2,0,,,,000,000,000,000,000,Partidas,0855274e
+266,Thiago Galhardo,br BRA,LT,Vasco da Gama,28,1989,22,13,1.289,14.3,3,2,5,2,1,1,4,0,,,,021,014,035,014,028,Partidas,766f48dd
+267,Luan Garcia,br BRA,ZG,Palmeiras,24,1993,16,16,1.374,15.3,2,0,2,2,0,0,6,1,,,,013,000,013,013,013,Partidas,6ebe6cc1
+268,Pedro Geromel,br BRA,ZG,Grêmio,32,1985,20,20,1.800,20.0,2,0,2,2,0,0,3,0,,,,010,000,010,010,010,Partidas,78f81520
+269,Geuvânio,br BRA,LT,Flamengo,25,1992,12,3,430,4.8,0,1,1,0,0,0,2,0,,,,000,021,021,000,021,Partidas,458c949b
+270,Gilberto,br BRA,AT,Bahia,28,1989,21,18,1.528,17.0,8,0,8,8,0,0,2,0,,,,047,000,047,047,047,Partidas,5da22685
+271,Gilberto,br BRA,ZGLT,Fluminense,24,1993,15,15,1.242,13.8,3,2,5,3,0,0,3,1,,,,022,014,036,022,036,Partidas,1338e42b
+272,Gilson,br BRA,ZG,Botafogo (RJ),31,1986,16,14,1.261,14.0,1,0,1,1,0,0,5,1,,,,007,000,007,007,007,Partidas,d293e886
+273,Igor Gomes,br BRA,LT,São Paulo,18,1999,2,0,33,0.4,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,6a7fb945
+274,Leo Gomes,br BRA,LT,Vitória,20,1997,15,15,1.317,14.6,0,1,1,0,0,0,5,0,,,,000,007,007,000,007,Partidas,69897e09
+275,Leonardo Gomes,br BRA,ZG,Grêmio,21,1996,13,13,1.162,12.9,0,1,1,0,0,0,2,0,,,,000,008,008,000,008,Partidas,91c526e1
+276,Gustavo Gómez,py PAR,ZG,Palmeiras,24,1993,14,13,1.181,13.1,2,0,2,1,1,1,4,0,,,,015,000,015,008,008,Partidas,d5ce52a5
+277,Diego Gonçalves,br BRA,LT,Paraná,23,1994,1,1,55,0.6,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,c707fc37
+278,Fábio Gonçalves,br BRA,LTZG,Ceará,31,1986,14,12,983,10.9,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,5bdc9542
+279,Fábio Gonçalves,br BRA,LT,Internacional,31,1986,1,0,16,0.2,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,5bdc9542
+280,Mateus Gonçalves Martins,br BRA,LT,Sport Recife,23,1994,13,12,941,10.5,3,1,4,3,0,0,1,0,,,,029,010,038,029,038,Partidas,20e9c1c7
+281,Derlis González,py PAR,LTAT,Santos,23,1994,16,8,816,9.1,1,5,6,1,0,0,5,0,,,,011,055,066,011,066,Partidas,e5ce82f9
+282,Lucho González,ar ARG,LT,Atl Paranaense,37,1981,27,23,1.750,19.4,1,3,4,1,0,0,4,1,,,,005,015,021,005,021,Partidas,e59b83c0
+283,Rafael Grampola,br BRA,AT,Paraná,29,1988,18,16,1.279,14.2,1,0,1,1,0,0,1,0,,,,007,000,007,007,007,Partidas,5b72a504
+284,Bruno Grassi,br BRA,G,Grêmio,30,1987,1,1,90,1.0,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,fb4eb061
+285,Gregore,br BRA,LT,Bahia,24,1993,35,35,3.109,34.5,0,2,2,0,0,0,9,0,,,,000,006,006,000,006,Partidas,9aca36d0
+286,Marcelo Grohe,br BRA,G,Grêmio,31,1987,18,18,1.575,17.5,0,0,0,0,0,0,2,0,,,,000,000,000,000,000,Partidas,69c26681
+287,Douglas Grolli,br BRA,ZG,Bahia,28,1989,12,11,994,11.0,1,0,1,1,0,0,5,0,,,,009,000,009,009,009,Partidas,ea559b05
+288,Daniel Guedes,br BRA,ZG,Santos,23,1994,8,6,549,6.1,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,25f61bc3
+289,Guilherme Guedes,br BRA,ZG,Grêmio,18,1999,1,1,90,1.0,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,4f36b8b9
+290,Roger Guedes,br BRA,LT,Atlético Mineiro,21,1996,12,11,992,11.0,9,3,12,9,0,0,2,0,,,,082,027,109,082,109,Partidas,612a9dd7
+291,Alejandro Guerra,ve VEN,ATLT,Palmeiras,32,1985,9,3,353,3.9,1,1,2,1,0,0,0,0,,,,025,025,051,025,051,Partidas,75813cf5
+292,Paolo Guerrero,pe PER,AT,Flamengo,34,1984,6,4,359,4.0,1,1,2,1,0,0,0,0,,,,025,025,050,025,050,Partidas,ae6657a1
+293,Guilherme,br BRA,LTAT,Atl Paranaense,29,1988,14,11,934,10.4,2,0,2,1,1,1,4,0,,,,019,000,019,010,010,Partidas,8d126182
+294,Guilherme,br BRA,LT,Chapecoense,22,1995,10,3,320,3.6,1,0,1,0,1,1,0,0,,,,028,000,028,000,000,Partidas,58649f05
+295,Marcos Guilherme,br BRA,LT,São Paulo,22,1995,6,4,406,4.5,1,1,2,1,0,0,0,0,,,,022,022,044,022,044,Partidas,d5ff6084
+296,Bruno Guimarães,br BRA,LTZG,Atl Paranaense,20,1997,32,21,1.953,21.7,1,1,2,1,0,0,6,0,,,,005,005,009,005,009,Partidas,82518f62
+297,Gum,br BRA,ZG,Fluminense,32,1986,28,28,2.369,26.3,1,1,2,1,0,0,5,0,,,,004,004,008,004,008,Partidas,4860a362
+298,Luiz Gustavo,br BRA,ZG,Vasco da Gama,23,1994,28,28,2.495,27.7,0,0,0,0,0,0,7,0,,,,000,000,000,000,000,Partidas,c157940f
+299,Tyra Håkansson,se SWE,LT,Palmeiras,,,2,0,33,0.4,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,d414cba0
+300,Thiago Heleno,br BRA,ZG,Atl Paranaense,29,1988,20,20,1.716,19.1,2,0,2,2,0,0,1,0,,,,010,000,010,010,010,Partidas,827422f9
+301,Helinho,br BRA,LT,São Paulo,17,2000,5,4,359,4.0,1,0,1,1,0,0,0,0,,,,025,000,025,025,025,Partidas,5837cb60
+302,Henrique,br BRA,ZG,Vasco da Gama,23,1994,24,21,1.906,21.2,0,1,1,0,0,0,6,1,,,,000,005,005,000,005,Partidas,f28474a4
+303,Henrique,br BRA,ZG,Corinthians,31,1986,35,35,3.150,35.0,2,0,2,2,0,0,5,0,,,,006,000,006,006,006,Partidas,429163de
+304,Bruno Henrique,br BRA,LTAT,Santos,27,1990,28,19,1.700,18.9,1,3,4,1,0,0,6,0,,,,005,016,021,005,021,Partidas,5edff24f
+305,Bruno Henrique,br BRA,LT,Palmeiras,28,1989,33,27,2.406,26.7,9,3,12,7,2,2,7,0,,,,034,011,045,026,037,Partidas,5a43b021
+306,Carlos Henrique,br BRA,AT,Sport Recife,22,1995,15,2,431,4.8,2,0,2,2,0,0,1,0,,,,042,000,042,042,042,Partidas,689cbbd0
+307,Gustavo Henrique,br BRA,ZG,Santos,24,1993,29,27,2.403,26.7,1,0,1,1,0,0,7,0,,,,004,000,004,004,004,Partidas,fa066690
+308,Luiz Henrique,br BRA,LT,Bahia,20,1997,1,0,19,0.2,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,472c0630
+309,Matheus Henrique,br BRA,LT,Grêmio,20,1997,12,7,759,8.4,2,0,2,2,0,0,3,0,,,,024,000,024,024,024,Partidas,a2d9f138
+310,Pedro Henrique,br BRA,ZG,Corinthians,22,1995,12,12,1.070,11.9,0,0,0,0,0,0,6,0,,,,000,000,000,000,000,Partidas,4322e5d7
+311,Oswaldo Henríquez,co COL,ZG,Vasco da Gama,28,1989,10,5,534,5.9,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,fdea7679
+312,Marcelo Hermes,br BRA,ZG,Cruzeiro,22,1995,11,11,940,10.4,0,0,0,0,0,0,4,0,,,,000,000,000,000,000,Partidas,89346085
+313,Hernane,br BRA,AT,Grêmio,31,1986,1,1,59,0.7,0,1,1,0,0,0,1,0,,,,000,153,153,000,153,Partidas,264273d6
+314,Hernane,br BRA,AT,Sport Recife,31,1986,16,13,1.083,12.0,2,0,2,1,1,1,0,0,,,,017,000,017,008,008,Partidas,264273d6
+315,Roberto Heuchayer,br BRA,ZG,Chapecoense,27,1990,4,3,300,3.3,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,bd973b05
+316,Hudson,br BRA,LT,São Paulo,30,1988,31,30,2.577,28.6,1,0,1,1,0,0,10,0,,,,003,000,003,003,003,Partidas,f81b80fb
+317,Hulk,br BRA,ZG,Atlético Mineiro,18,1999,4,3,250,2.8,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,86c910fb
+318,Hygor,br BRA,AT,Sport Recife,25,1992,5,1,186,2.1,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,2fbd5e5e
+319,Hyoran,br BRA,LT,Palmeiras,24,1993,24,15,1.431,15.9,3,4,7,3,0,0,5,0,,,,019,025,044,019,044,Partidas,ffb88c28
+320,Hyuri,br BRA,AT,Ceará,26,1991,4,1,167,1.9,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,a6f6f037
+321,Matheus Iacovelli,br BRA,AT,Paraná,19,1998,2,0,33,0.4,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,6263a77e
+322,Iago,br BRA,ZG,Internacional,20,1997,35,35,3.113,34.6,0,1,1,0,0,0,7,0,,,,000,003,003,000,003,Partidas,054849d2
+323,Roger Ibanez,br BRA,ZG,Fluminense,19,1998,14,12,964,10.7,0,0,0,0,0,0,3,0,,,,000,000,000,000,000,Partidas,82efe6fa
+324,Italo,br BRA,LT,Bahia,20,1997,2,0,24,0.3,0,0,0,0,0,0,2,1,,,,000,000,000,000,000,Partidas,763574d6
+325,Léo Itaperuna,br BRA,LT,Paraná,28,1989,11,6,584,6.5,0,1,1,0,0,0,0,0,,,,000,015,015,000,015,Partidas,27932952
+326,Geovane Itinga,br BRA,AT,Bahia,19,1998,1,0,3,0.0,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,c41fae5a
+327,Zé Ivaldo,br BRA,ZG,Atl Paranaense,20,1997,19,18,1.569,17.4,1,0,1,1,0,0,5,0,,,,006,000,006,006,006,Partidas,5b6e7010
+328,Jadson,br BRA,LT,Fluminense,24,1993,33,33,2.700,30.0,2,1,3,2,0,0,9,1,,,,007,003,010,007,010,Partidas,05748af4
+329,Jádson,br BRA,LT,Corinthians,34,1983,25,23,1.992,22.1,4,5,9,3,1,1,1,0,,,,018,023,041,014,036,Partidas,c8722aeb
+330,Jailson,br BRA,G,Palmeiras,36,1981,13,12,1.124,12.5,0,0,0,0,0,0,2,1,,,,000,000,000,000,000,Partidas,01f7b8c3
+331,Jair,br BRA,LT,Sport Recife,23,1994,13,12,1.089,12.1,2,0,2,2,0,0,6,0,,,,017,000,017,017,017,Partidas,f3466edc
+332,Jandrei,br BRA,G,Chapecoense,24,1993,38,38,3.420,38.0,0,0,0,0,0,0,2,0,,,,000,000,000,000,000,Partidas,85ea4399
+333,Jean,br BRA,G,São Paulo,22,1995,10,10,899,10.0,0,0,0,0,0,0,2,1,,,,000,000,000,000,000,Partidas,c9bc1b99
+334,Jean,br BRA,LTZG,Palmeiras,31,1986,18,9,824,9.2,0,0,0,0,0,1,2,0,,,,000,000,000,000,000,Partidas,6c5803fb
+335,Jean,br BRA,LT,Botafogo (RJ),23,1994,15,13,930,10.3,1,2,3,1,0,0,4,0,,,,010,019,029,010,029,Partidas,69a34ec0
+336,Jeferson,br BRA,ZG,Vitória,21,1996,30,28,2.494,27.7,0,1,1,0,0,0,11,1,,,,000,004,004,000,004,Partidas,894c9325
+337,Jefferson,br BRA,G,Botafogo (RJ),35,1983,13,13,1.096,12.2,0,1,1,0,0,0,0,0,,,,000,008,008,000,008,Partidas,9643e815
+338,Jesiel,br BRA,ZG,Paraná,23,1994,18,17,1.523,16.9,0,0,0,0,0,0,2,0,,,,000,000,000,000,000,Partidas,0a5d031e
+339,Jonas,br BRA,LT,Flamengo,26,1991,7,4,347,3.9,0,0,0,0,0,0,2,1,,,,000,000,000,000,000,Partidas,f2dbada6
+340,Felipe Jonatan,br BRA,ZG,Ceará,19,1998,14,14,1.234,13.7,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,0102ca7f
+341,Jonathas,br BRA,AT,Corinthians,28,1989,7,3,299,3.3,1,0,1,1,0,0,0,0,,,,030,000,030,030,030,Partidas,531807b3
+342,Kaio Jorge,br BRA,AT,Santos,16,2002,1,0,10,0.1,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,0cf465f2
+343,Jori,br BRA,G,América (MG),21,1996,9,9,810,9.0,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,9aecb45b
+344,Juan,br BRA,ZG,Flamengo,38,1979,4,4,360,4.0,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,0e5b2af1
+345,Jucilei,br BRA,LT,São Paulo,29,1988,28,28,2.435,27.1,0,0,0,0,0,0,5,0,,,,000,000,000,000,000,Partidas,f151e9b8
+346,Judivan,br BRA,AT,América (MG),22,1995,9,5,414,4.6,0,1,1,0,0,0,0,0,,,,000,022,022,000,022,Partidas,11bb93cf
+347,Igor Julião,br BRA,ZGLT,Fluminense,23,1994,8,6,560,6.2,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,103349a9
+348,Juninho,br BRA,LT,América (MG),30,1987,34,30,2.752,30.6,4,0,4,4,0,0,4,0,,,,013,000,013,013,013,Partidas,7d10ca2e
+349,Juninho,br BRA,LT,Ceará,31,1986,16,16,1.405,15.6,1,0,1,0,1,1,1,0,,,,006,000,006,000,000,Partidas,2cc16e46
+350,Juninho,br BRA,ZG,Vitória,28,1990,1,0,45,0.5,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,74e8ec46
+351,Juninho,br BRA,ZG,Atlético Mineiro,22,1995,4,4,356,4.0,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,72c01cfb
+352,Juninho,br BRA,LTZG,Paraná,22,1995,11,11,855,9.5,0,2,2,0,0,0,1,0,,,,000,021,021,000,021,Partidas,56146a78
+353,Edigar Junio,br BRA,ATLT,Bahia,26,1991,27,20,1.731,19.2,6,1,7,5,1,1,0,0,,,,031,005,036,026,031,Partidas,52dd7e7f
+354,Marcos Júnior,br BRA,LTAT,Fluminense,25,1993,28,17,1.370,15.2,2,3,5,2,0,0,1,0,,,,013,020,033,013,033,Partidas,1a9ef914
+355,Osman Júnior,br BRA,LTAT,Chapecoense,25,1992,13,6,519,5.8,1,0,1,1,0,0,2,0,,,,017,000,017,017,017,Partidas,168c4a77
+356,Renê Júnior,br BRA,LT,Corinthians,28,1989,4,4,303,3.4,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,522ebf95
+357,Silvio Junior,br BRA,LT,Paraná,27,1990,30,26,2.171,24.1,3,0,3,3,0,0,2,1,,,,012,000,012,012,012,Partidas,fc2cd8b3
+358,Todinho Júnior,br BRA,AT,Vitória,24,1993,1,0,18,0.2,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,c84c1cc7
+359,Vinicius Júnior,br BRA,LT,Flamengo,17,2000,12,11,973,10.8,4,3,7,4,0,0,3,0,,,,037,028,065,037,065,Partidas,7111d552
+360,Lucas Kal,br BRA,ZGLT,São Paulo,21,1996,1,0,5,0.1,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,33ed689d
+361,Lucas Kal,br BRA,ZGLT,Vasco da Gama,21,1996,1,0,4,0.0,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,33ed689d
+362,Walter Kannemann,ar ARG,ZG,Grêmio,26,1991,18,18,1.602,17.8,0,0,0,0,0,0,6,1,,,,000,000,000,000,000,Partidas,5b37f2f8
+363,Kanu,br BRA,ZG,Vitória,33,1984,14,14,1.260,14.0,0,0,0,0,0,0,9,0,,,,000,000,000,000,000,Partidas,3e28d14a
+364,Colin Kazim-Richards,tr TUR,ATLT,Corinthians,31,1986,1,0,6,0.1,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,ca9e7345
+365,Kelvin,br BRA,LT,Vasco da Gama,24,1993,19,9,810,9.0,1,2,3,1,0,0,1,0,,,,011,022,033,011,033,Partidas,1845f7da
+366,Pedro Ken,br BRA,LT,Ceará,30,1987,10,2,301,3.3,0,0,0,0,0,0,2,0,,,,000,000,000,000,000,Partidas,c46a9b8b
+367,Keno,br BRA,LT,Palmeiras,28,1989,9,9,753,8.4,1,1,2,1,0,1,0,0,,,,012,012,024,012,024,Partidas,98558c11
+368,Keslley,br BRA,LT,Paraná,18,1999,5,3,319,3.5,1,0,1,1,0,0,1,0,,,,028,000,028,028,028,Partidas,1c8510b2
+369,Kieza,br BRA,AT,Botafogo (RJ),31,1986,27,20,1.855,20.6,7,2,9,7,0,0,0,0,,,,034,010,044,034,044,Partidas,7c950b48
+370,Willian Klaus,br BRA,ZG,Internacional,24,1994,6,5,451,5.0,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,ddc86898
+371,Laercio,br BRA,AT,Cruzeiro,19,1998,2,0,10,0.1,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,2d0b28bf
+372,Fernando Leal,br BRA,G,América (MG),36,1981,1,1,90,1.0,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,1b4bc654
+373,Leandrinho,br BRA,LT,Atlético Mineiro,19,1998,3,0,67,0.7,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,26c54163
+374,Leandrinho,br BRA,LT,Botafogo (RJ),21,1996,1,0,30,0.3,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,0a78f79e
+375,Victor Leandro Bagy,br BRA,G,Atlético Mineiro,35,1983,38,38,3.420,38.0,0,0,0,0,0,0,3,0,,,,000,000,000,000,000,Partidas,cfc1d935
+376,Fabiano Leismann,br BRA,ZG,Internacional,26,1991,25,20,1.862,20.7,0,1,1,0,0,0,7,0,,,,000,005,005,000,005,Partidas,d8b87439
+377,Lenon,br BRA,ZG,Vasco da Gama,27,1990,9,8,686,7.6,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,9ec847dc
+378,Léo,br BRA,ZG,Cruzeiro,30,1988,31,30,2.694,29.9,0,0,0,0,0,0,2,0,,,,000,000,000,000,000,Partidas,79217d1f
+379,Leonardo,br BRA,AT,Vitória,22,1995,17,15,1.279,14.2,4,0,4,4,0,0,3,0,,,,028,000,028,028,028,Partidas,2eac9f7f
+380,Lima,br BRA,LT,Grêmio,21,1996,9,4,373,4.1,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,d215c7de
+381,André Lima,br BRA,AT,Vitória,32,1985,21,10,1.037,11.5,2,0,2,2,0,0,3,0,,,,017,000,017,017,017,Partidas,c5d9c6a0
+382,Erik Lima,br BRA,ATLT,Atlético Mineiro,23,1994,5,0,82,0.9,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,d038510e
+383,Erik Lima,br BRA,LTAT,Botafogo (RJ),23,1994,17,15,1.323,14.7,5,4,9,5,0,0,2,0,,,,034,027,061,034,061,Partidas,d038510e
+384,Lucas Lima,br BRA,LT,Palmeiras,27,1990,34,26,2.167,24.1,5,3,8,5,0,0,8,0,,,,021,012,033,021,033,Partidas,49d03337
+385,Rafael Lima,br BRA,ZG,América (MG),31,1986,4,4,360,4.0,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,f0d72264
+386,Lincoln,br BRA,LT,América (MG),19,1998,3,0,77,0.9,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,27504df8
+387,Lincoln,br BRA,AT,Flamengo,17,2000,9,2,270,3.0,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,1bd69420
+388,Lincoln,br BRA,LT,Grêmio,19,1998,1,0,7,0.1,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,27504df8
+389,Rodrigo Lindoso,br BRA,LT,Botafogo (RJ),28,1989,32,32,2.805,31.2,6,3,9,4,2,3,6,0,,,,019,010,029,013,022,Partidas,7b013540
+390,Liziero,br BRA,LT,São Paulo,19,1998,29,15,1.515,16.8,1,1,2,1,0,0,5,0,,,,006,006,012,006,012,Partidas,318ecb8c
+391,Renan Lodi,br BRA,ZG,Atl Paranaense,19,1998,24,21,1.848,20.5,0,3,3,0,0,0,6,1,,,,000,015,015,000,015,Partidas,ed9f7cfe
+392,Marcelo Lomba,br BRA,G,Internacional,31,1986,24,24,2.160,24.0,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,e4835e3c
+393,Maxi López,ar ARG,AT,Vasco da Gama,33,1984,19,18,1.630,18.1,7,5,12,3,4,4,8,0,,,,039,028,066,017,044,Partidas,ad469944
+394,Nicolás López,uy URU,LTAT,Internacional,24,1993,35,26,2.337,26.0,11,6,17,9,2,2,5,0,,,,042,023,065,035,058,Partidas,8d2ee5e2
+395,Lucas Lourenço,br BRA,LT,Santos,17,2001,1,0,17,0.2,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,91d5001e
+396,Luan,br BRA,LTAT,América (MG),29,1988,26,24,1.876,20.8,1,3,4,1,0,1,6,2,,,,005,014,019,005,019,Partidas,f4e81704
+397,Luan,br BRA,LT,Vitória,18,1999,6,5,400,4.4,1,0,1,1,0,0,2,0,,,,023,000,023,023,023,Partidas,5d023894
+398,Luan,br BRA,LTAT,Atlético Mineiro,27,1990,36,30,2.380,26.4,3,5,8,3,0,0,6,0,,,,011,019,030,011,030,Partidas,22fc8906
+399,Luan,br BRA,LT,São Paulo,18,1999,7,5,415,4.6,0,1,1,0,0,0,1,0,,,,000,022,022,000,022,Partidas,12a226cf
+400,Luan,br BRA,AT,Paraná,22,1996,1,0,30,0.3,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,c8e13971
+401,Ayrton Lucas,br BRA,ZGLT,Fluminense,20,1997,28,28,2.456,27.3,0,0,0,0,0,0,4,0,,,,000,000,000,000,000,Partidas,db90b737
+402,João Lucas Cardoso,br BRA,ZG,Ceará,26,1991,15,15,1.290,14.3,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,8a493d50
+403,Jean Lucas,br BRA,LT,Flamengo,19,1998,14,4,376,4.2,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,a99138af
+404,Jean Lucas,br BRA,LT,Paraná,22,1995,2,0,53,0.6,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,68f00be2
+405,Jhonny Lucas,br BRA,LT,Paraná,17,2000,21,18,1.420,15.8,2,0,2,2,0,0,7,0,,,,013,000,013,013,013,Partidas,a800ccee
+406,Lucca,br BRA,LTAT,Internacional,27,1990,15,10,826,9.2,1,3,4,1,0,0,3,0,,,,011,033,044,011,044,Partidas,c1b02057
+407,Luciano,br BRA,ATLT,Fluminense,24,1993,18,15,1.378,15.3,3,1,4,3,0,0,2,0,,,,020,007,026,020,026,Partidas,24ce161c
+408,Luidy,br BRA,LT,Ceará,21,1996,3,0,47,0.5,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,1e09762a
+409,Leandro Luis Desábato,ar ARG,LT,Vasco da Gama,27,1990,27,25,2.087,23.2,0,1,1,0,0,0,7,1,,,,000,004,004,000,004,Partidas,a3645430
+410,Éder Luís,br BRA,LTAT,Ceará,32,1985,13,4,486,5.4,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,d1fbcdea
+411,Charles Luis Reiter,br BRA,ZG,Paraná,29,1988,6,5,455,5.1,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,4e0cceaa
+412,Victor Luis,br BRA,ZG,Palmeiras,24,1993,22,21,1.837,20.4,1,0,1,1,0,0,4,0,,,,005,000,005,005,005,Partidas,cc68c4d3
+413,Mádson,br BRA,ZG,Grêmio,26,1992,8,7,634,7.0,0,2,2,0,0,0,0,0,,,,000,028,028,000,028,Partidas,766094be
+414,Moisés Magalhães,br BRA,LT,Palmeiras,29,1988,28,16,1.509,16.8,2,0,2,1,1,1,6,0,,,,012,000,012,006,006,Partidas,8cba21c9
+415,Magrão,br BRA,G,Sport Recife,40,1977,24,24,2.160,24.0,0,0,0,0,0,0,4,0,,,,000,000,000,000,000,Partidas,af8fb3d3
+416,Gérson Magrão,br BRA,LTZG,América (MG),32,1985,24,18,1.503,16.7,2,0,2,2,0,0,4,0,,,,012,000,012,012,012,Partidas,85b153ea
+417,Walisson Maia,br BRA,ZG,Vitória,26,1991,2,2,180,2.0,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,ffa1d3c3
+418,Maicosuel,br BRA,LT,Paraná,31,1986,6,1,182,2.0,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,4f5e5c13
+419,Maicosuel,br BRA,LT,Grêmio,31,1986,3,2,136,1.5,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,4f5e5c13
+420,Iago Maidana,br BRA,ZG,Atlético Mineiro,21,1996,22,22,1.980,22.0,0,0,0,0,0,0,6,0,,,,000,000,000,000,000,Partidas,e65a5924
+421,Mailson,br BRA,G,Sport Recife,21,1996,13,13,1.170,13.0,0,1,1,0,0,0,0,0,,,,000,008,008,000,008,Partidas,c573e883
+422,Federico Mancuello,ar ARG,LT,Cruzeiro,28,1989,20,13,962,10.7,1,1,2,0,1,1,3,2,,,,009,009,019,000,009,Partidas,e1cf57c7
+423,Manoel,br BRA,ZG,Cruzeiro,27,1990,16,15,1.395,15.5,1,0,1,1,0,0,3,0,,,,006,000,006,006,006,Partidas,12748e35
+424,Mansur,br BRA,ZG,Paraná,24,1993,17,15,1.284,14.3,0,0,0,0,0,0,3,1,,,,000,000,000,000,000,Partidas,924081a5
+425,Guilherme Mantuan,br BRA,ZG,Corinthians,20,1997,14,13,1.221,13.6,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,627b470c
+426,Willian Maranhão,br BRA,LT,Vasco da Gama,22,1995,14,12,1.115,12.4,0,2,2,0,0,0,7,0,,,,000,016,016,000,016,Partidas,f1d95c74
+427,Marcelo,br BRA,AT,Cruzeiro,20,1998,3,0,48,0.5,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,62c544d7
+428,Marcelo,br BRA,ZG,Botafogo (RJ),22,1996,9,7,685,7.6,0,0,0,0,0,0,3,0,,,,000,000,000,000,000,Partidas,300b455d
+429,Marcinho,br BRA,LT,Atl Paranaense,22,1995,25,19,1.591,17.7,2,2,4,2,0,0,1,0,,,,011,011,023,011,023,Partidas,5465c7f9
+430,Marcinho,br BRA,ZG,Botafogo (RJ),21,1996,32,32,2.802,31.1,1,4,5,1,0,0,7,0,,,,003,013,016,003,016,Partidas,6bc6e0e4
+431,Marinho,br BRA,LT,Grêmio,27,1990,13,4,509,5.7,1,1,2,1,0,0,4,0,,,,018,018,035,018,035,Partidas,c077c735
+432,Rodriguinho Marinho,br BRA,LT,Corinthians,29,1988,11,11,982,10.9,5,2,7,5,0,0,1,0,,,,046,018,064,046,064,Partidas,0e335a47
+433,Marlon,br BRA,ZGLT,Fluminense,20,1997,12,10,952,10.6,0,1,1,0,0,0,5,0,,,,000,009,009,000,009,Partidas,63969d01
+434,Marlone,br BRA,LT,Sport Recife,25,1992,30,22,1.928,21.4,2,4,6,2,0,0,1,0,,,,009,019,028,009,028,Partidas,cf864c1d
+435,Brenner Marlos,br BRA,AT,Botafogo (RJ),23,1994,24,16,1.380,15.3,3,0,3,2,1,1,2,0,,,,020,000,020,013,013,Partidas,77bc33b7
+436,Lucas Marques,br BRA,ZG,Vitória,29,1988,7,5,528,5.9,1,0,1,1,0,0,0,0,,,,017,000,017,017,017,Partidas,a6a40a8a
+437,Lucas Marques,br BRA,LT,Vitória,22,1995,4,3,290,3.2,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,30c255c7
+438,Rafael Marques,br BRA,AT,Cruzeiro,34,1983,2,0,24,0.3,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,1f3feab6
+439,Rafael Marques,br BRA,ATLT,Sport Recife,34,1983,20,13,1.219,13.5,1,1,2,1,0,0,2,0,,,,007,007,015,007,015,Partidas,1f3feab6
+440,Jorge Daniel González Marquet,py PAR,LT,Paraná,29,1988,17,13,1.002,11.1,0,1,1,0,0,0,5,0,,,,000,009,009,000,009,Partidas,05ea09fe
+441,Marquinhos,br BRA,LTAT,América (MG),28,1989,17,9,824,9.2,1,1,2,1,0,0,1,0,,,,011,011,022,011,022,Partidas,5b8c26bf
+442,Marquinhos,br BRA,LT,Chapecoense,18,1999,2,0,103,1.1,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,04964f4f
+443,Marrony,br BRA,LT,Vasco da Gama,18,1999,12,3,383,4.3,1,0,1,1,0,0,1,0,,,,023,000,023,023,023,Partidas,1dff86ec
+444,Elias Martello Curzel,br BRA,G,Vitória,22,1995,8,8,720,8.0,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,1b3a9910
+445,Anderson Martins,br BRA,ZG,São Paulo,30,1987,23,23,1.978,22.0,1,0,1,1,0,0,9,2,,,,005,000,005,005,005,Partidas,6563df3d
+446,Thiago Martins,br BRA,ZG,Palmeiras,22,1995,7,7,630,7.0,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,4d6ec370
+447,Wellington Martins,br BRA,LT,Atl Paranaense,27,1991,19,17,1.490,16.6,1,0,1,1,0,0,5,0,,,,006,000,006,006,006,Partidas,0430d656
+448,Wellington Martins,br BRA,LT,Vasco da Gama,27,1991,4,3,245,2.7,0,0,0,0,0,0,2,0,,,,000,000,000,000,000,Partidas,0430d656
+449,Matheusinho,br BRA,LTAT,América (MG),19,1998,17,8,904,10.0,2,0,2,2,0,0,0,0,,,,020,000,020,020,020,Partidas,74f5a96d
+450,Max,br BRA,ZG,Sport Recife,30,1987,1,0,42,0.5,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,40ed275f
+451,Maycon,br BRA,LT,Corinthians,20,1997,10,8,766,8.5,0,0,0,0,0,0,3,0,,,,000,000,000,000,000,Partidas,005ca692
+452,Mayke,br BRA,ZG,Palmeiras,25,1992,20,14,1.444,16.0,0,2,2,0,0,0,3,0,,,,000,012,012,000,012,Partidas,47431289
+453,Marcelo Meli,ar ARG,LT,Vitória,25,1992,9,6,481,5.3,0,0,0,0,0,0,3,0,,,,000,000,000,000,000,Partidas,e02f182f
+454,Arthur Melo,br BRA,LT,Grêmio,21,1996,7,7,598,6.6,1,1,2,1,0,0,0,0,,,,015,015,030,015,030,Partidas,48b3dd60
+455,Felipe Melo,br BRA,LT,Palmeiras,34,1983,29,26,2.214,24.6,2,1,3,2,0,0,15,0,,,,008,004,012,008,012,Partidas,b14d84d3
+456,Rodolfo de Melo,br BRA,G,Fluminense,26,1991,4,3,315,3.5,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,b60aa73d
+457,Eugenio Mena,cl CHI,ZG,Bahia,29,1988,5,2,243,2.7,1,0,1,1,0,0,0,0,,,,037,000,037,037,037,Partidas,45ef7845
+458,Edílson Mendes,br BRA,ZG,Cruzeiro,31,1986,18,18,1.532,17.0,1,1,2,1,0,0,11,0,,,,006,006,012,006,012,Partidas,d3de7d58
+459,Kaio Mendes,br BRA,LT,Grêmio,22,1995,7,4,314,3.5,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,0bd61cad
+460,Ramon Menezes Roma,br BRA,ZGLT,Vitória,22,1995,28,25,2.256,25.1,1,0,1,1,0,0,7,0,,,,004,000,004,004,004,Partidas,eab48ffb
+461,Messias,br BRA,ZG,América (MG),23,1994,35,35,3.145,34.9,1,0,1,1,0,0,7,1,,,,003,000,003,003,003,Partidas,70bb3170
+462,Michel,br BRA,LTZG,Grêmio,27,1990,10,9,755,8.4,0,1,1,0,0,0,1,0,,,,000,012,012,000,012,Partidas,e68380b9
+463,Fernando Miguel,br BRA,G,Vasco da Gama,32,1985,14,14,1.260,14.0,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,f1f06658
+464,Éder Militão,br BRA,ZG,São Paulo,20,1998,13,13,1.119,12.4,1,1,2,1,0,0,6,0,,,,008,008,016,008,016,Partidas,2784f898
+465,Miranda,br BRA,ZG,Vasco da Gama,18,2000,1,1,90,1.0,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,83300aa7
+466,Paulo Miranda,br BRA,ZG,Grêmio,29,1988,13,13,1.096,12.2,0,0,0,0,0,0,2,0,,,,000,000,000,000,000,Partidas,93a194e1
+467,Moisés,br BRA,ZG,Botafogo (RJ),22,1995,27,24,2.156,24.0,0,2,2,0,0,0,4,1,,,,000,008,008,000,008,Partidas,a40af810
+468,Rodrigo Moledo,br BRA,ZG,Internacional,30,1987,26,26,2.339,26.0,2,0,2,2,0,0,6,1,,,,008,000,008,008,008,Partidas,ce536c37
+469,Caio Monteiro,br BRA,LTAT,Vasco da Gama,20,1997,9,5,399,4.4,1,1,2,1,0,0,0,0,,,,023,023,045,023,045,Partidas,3031eddf
+470,Anselmo de Moraes,br BRA,LT,Sport Recife,28,1989,8,8,720,8.0,2,1,3,2,0,0,2,0,,,,025,012,037,025,037,Partidas,2bb57ba0
+471,Leonardo Morais,br BRA,ZGLT,Fluminense,26,1991,15,15,1.270,14.1,0,1,1,0,0,0,8,1,,,,000,007,007,000,007,Partidas,3cc65884
+472,Morato,br BRA,LT,Sport Recife,25,1992,7,4,341,3.8,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,96b49b3b
+473,Jonathan Moreira,br BRA,ZG,Atl Paranaense,31,1986,23,21,1.828,20.3,1,5,6,1,0,0,5,0,,,,005,025,030,005,030,Partidas,90a2a72b
+474,Marlos Moreno,co COL,LTAT,Flamengo,21,1996,21,6,631,7.0,1,1,2,1,0,0,3,0,,,,014,014,029,014,029,Partidas,8499c713
+475,Moresche,br BRA,AT,Vasco da Gama,19,1998,3,0,22,0.2,0,0,0,0,0,0,0,1,,,,000,000,000,000,000,Partidas,fcdc1da6
+476,Jean Mota,br BRA,LT,Santos,24,1993,20,16,1.372,15.2,2,0,2,2,0,0,5,0,,,,013,000,013,013,013,Partidas,1ee0513b
+477,Ramon Motta,br BRA,ZG,Vasco da Gama,29,1988,19,15,1.326,14.7,1,0,1,1,0,0,2,0,,,,007,000,007,007,007,Partidas,9ddc3474
+478,Léo Moura,br BRA,ZG,Grêmio,39,1978,18,18,1.402,15.6,0,4,4,0,0,0,0,0,,,,000,026,026,000,026,Partidas,548a2943
+479,Neto Moura,br BRA,LT,Sport Recife,21,1996,17,11,842,9.4,0,0,0,0,0,0,3,0,,,,000,000,000,000,000,Partidas,28fd3b9e
+480,Rafael Moura,br BRA,AT,América (MG),34,1983,27,17,1.691,18.8,7,3,10,5,2,2,5,1,,,,037,016,053,027,043,Partidas,66a75186
+481,Nádson,br BRA,LTAT,Paraná,28,1989,10,8,649,7.2,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,1c6e6c84
+482,Nádson,br BRA,LT,Chapecoense,28,1989,4,1,194,2.2,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,1c6e6c84
+483,Naldo,br BRA,LT,Ceará,27,1990,5,2,275,3.1,1,0,1,1,0,0,1,0,,,,033,000,033,033,033,Partidas,6d904d98
+484,Andrey Ramos do Nascimento,br BRA,LT,Vasco da Gama,19,1998,27,25,2.248,25.0,4,2,6,4,0,0,6,1,,,,016,008,024,016,024,Partidas,eb55ab5a
+485,Wesley Natã,br BRA,LT,Chapecoense,22,1995,1,1,45,0.5,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,87a1a7f5
+486,Nathan,br BRA,LT,Atlético Mineiro,21,1996,7,4,251,2.8,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,fa00f0c9
+487,Bruno Nazário,br BRA,LT,Atl Paranaense,22,1995,9,2,284,3.2,0,1,1,0,0,0,1,0,,,,000,032,032,000,032,Partidas,dc1d79a5
+488,Neílton,br BRA,LTAT,Vitória,23,1994,32,24,2.209,24.5,7,3,10,4,3,3,7,1,,,,029,012,041,016,029,Partidas,689299a6
+489,Nenê,br BRA,LT,São Paulo,36,1981,35,29,2.461,27.3,8,4,12,5,3,4,8,0,,,,029,015,044,018,033,Partidas,265ebd37
+490,Neris,br BRA,ZG,Paraná,25,1992,5,4,383,4.3,0,0,0,0,0,0,3,1,,,,000,000,000,000,000,Partidas,f961d4c2
+491,Thiago Neves,br BRA,LT,Cruzeiro,32,1985,24,21,1.746,19.4,3,0,3,2,1,1,3,0,,,,015,000,015,010,010,Partidas,522d4722
+492,Nickson,br BRA,LT,Vitória,20,1997,5,0,65,0.7,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,8df6e06c
+493,Nicolas,br BRA,ZG,Atl Paranaense,20,1997,1,1,90,1.0,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,0739a5da
+494,Nikão,br BRA,LTAT,Atl Paranaense,25,1992,32,26,2.311,25.7,2,6,8,2,0,0,5,1,,,,008,023,031,008,031,Partidas,a34bb194
+495,Nílton,br BRA,LT,Bahia,30,1987,11,9,760,8.4,1,1,2,1,0,0,4,0,,,,012,012,024,012,024,Partidas,abc1901c
+496,Nonoca,br BRA,LT,Sport Recife,19,1998,4,1,87,1.0,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,06c062d4
+497,Norberto,br BRA,ZG,América (MG),27,1990,20,20,1.619,18.0,0,2,2,0,0,0,6,0,,,,000,011,011,000,011,Partidas,93e1aa98
+498,Mateus Norton,br BRA,LTZG,Fluminense,21,1996,9,5,486,5.4,0,0,0,0,0,0,2,0,,,,000,000,000,000,000,Partidas,7496789f
+499,Guilherme Nunes,br BRA,LT,Santos,19,1998,2,2,29,0.3,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,49b6c213
+500,Gabriel Oliveira,br BRA,LT,Internacional,18,1999,1,1,74,0.8,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,6aecd285
+501,Yuri Oliveira Lima,br BRA,LTZG,Santos,23,1994,5,3,343,3.8,0,0,0,0,0,0,4,0,,,,000,000,000,000,000,Partidas,bcf3d64e
+502,Marcelo Oliveira,br BRA,ZG,Grêmio,30,1987,14,13,1.080,12.0,0,0,0,0,0,0,5,0,,,,000,000,000,000,000,Partidas,ef8538e8
+503,Renan Oliveira,br BRA,ATLT,América (MG),28,1989,2,0,48,0.5,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,7a4fcc7d
+504,Ricardo Oliveira,br BRA,AT,Atlético Mineiro,37,1980,35,35,3.004,33.4,13,6,19,13,0,0,3,0,,,,039,018,057,039,057,Partidas,420c1246
+505,José Ortigoza,py PAR,AT,Paraná,30,1987,5,3,329,3.7,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,47aeaa7b
+506,Leo Ortiz,br BRA,ZG,Sport Recife,22,1996,6,6,540,6.0,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,53834fa2
+507,Edgardo Orzusa,py PAR,LT,Chapecoense,27,1990,2,0,30,0.3,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,6d98c860
+508,Luiz Otávio,br BRA,ZG,Ceará,29,1988,35,34,3.097,34.4,1,1,2,1,0,0,8,0,,,,003,003,006,003,006,Partidas,ed976dd9
+509,Luiz Otávio,br BRA,ZG,Chapecoense,25,1992,4,2,190,2.1,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,35e4fc3a
+510,Nathan Otávio Ribeiro,br BRA,ZG,Fluminense,27,1990,5,4,407,4.5,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,bfdf1443
+511,Rómulo Otero,ve VEN,LT,Atlético Mineiro,25,1992,7,5,378,4.2,1,0,1,1,0,0,0,0,,,,024,000,024,024,024,Partidas,96fdc3c0
+512,Pablo,br BRA,ATLT,Atl Paranaense,25,1992,33,30,2.730,30.3,12,2,14,12,0,0,6,0,,,,040,007,046,040,046,Partidas,1ad394c5
+513,Bruno Pacheco,br BRA,ZG,Chapecoense,26,1991,30,30,2.678,29.8,0,1,1,0,0,0,9,0,,,,000,003,003,000,003,Partidas,9b7976e6
+514,Henrique Pacheco Lima,br BRA,LT,Cruzeiro,32,1985,19,19,1.710,19.0,0,1,1,0,0,0,7,0,,,,000,005,005,000,005,Partidas,a4796c59
+515,Wesley Pacheco,br BRA,AT,América (MG),27,1990,5,1,134,1.5,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,bd217923
+516,Pachu,br BRA,AT,Botafogo (RJ),21,1996,1,0,45,0.5,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,7278aff3
+517,Tiago Pagnussat,br BRA,ZG,Bahia,27,1990,20,20,1.759,19.5,2,0,2,2,0,0,6,1,,,,010,000,010,010,010,Partidas,63fee4e5
+518,Giovanni Palmieri,br BRA,LTZG,América (MG),28,1989,24,20,1.777,19.7,3,1,4,3,0,0,3,0,,,,015,005,020,015,020,Partidas,296e5c63
+519,Lucas Paquetá,br BRA,LT,Flamengo,20,1997,32,31,2.743,30.5,10,1,11,10,0,0,9,1,,,,033,003,036,033,036,Partidas,9b6f7fd5
+520,Pará,br BRA,ZG,Flamengo,31,1986,20,16,1.454,16.2,0,1,1,0,0,0,4,0,,,,000,006,006,000,006,Partidas,64f3f8ee
+521,Nino Paraíba,br BRA,ZG,Bahia,32,1986,22,19,1.712,19.0,0,1,1,0,0,0,4,0,,,,000,005,005,000,005,Partidas,403ef062
+522,Pablo Pardal,br BRA,LT,Sport Recife,18,1999,1,0,10,0.1,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,68c9057d
+523,Patrick,br BRA,ZG,Cruzeiro,20,1997,6,3,393,4.4,0,1,1,0,0,0,0,0,,,,000,023,023,000,023,Partidas,c5b2d65e
+524,Patrick,br BRA,ZG,Ceará,20,1997,1,1,90,1.0,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,e857a755
+525,Patrick,br BRA,LT,Internacional,25,1992,36,35,3.072,34.1,5,3,8,5,0,0,7,0,,,,015,009,023,015,023,Partidas,92add14e
+526,Paulão,br BRA,ZG,América (MG),31,1986,5,4,334,3.7,0,0,0,0,0,0,2,0,,,,000,000,000,000,000,Partidas,20587790
+527,Paulão,br BRA,ZG,Vasco da Gama,31,1986,5,5,450,5.0,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,20587790
+528,Paulinho,br BRA,ZGLT,Bahia,23,1995,7,6,481,5.3,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,f3fa599d
+529,Paulinho,br BRA,ATLT,São Paulo,19,1998,2,0,24,0.3,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,bc486f0e
+530,Wellington Paulista,br BRA,ATLT,Chapecoense,33,1984,24,22,1.944,21.6,5,2,7,4,1,1,7,0,,,,023,009,032,019,028,Partidas,f2eece5b
+531,João Paulo Mior,br BRA,LT,Botafogo (RJ),26,1991,2,0,43,0.5,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,b96aa1d6
+532,Esteban Pavez,cl CHI,ZGLT,Atl Paranaense,27,1990,7,6,501,5.6,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,bff05389
+533,Pedrinho,br BRA,LT,Corinthians,19,1998,35,27,2.389,26.5,0,2,2,0,0,0,2,0,,,,000,008,008,000,008,Partidas,6796e284
+534,Pedro,br BRA,AT,Fluminense,20,1997,19,19,1.595,17.7,10,2,12,10,0,0,1,0,,,,056,011,068,056,068,Partidas,1ab6fad3
+535,João Pedro Heinen,br BRA,LT,Botafogo (RJ),21,1997,8,4,259,2.9,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,099af7ab
+536,João Pedro,br BRA,ZG,Bahia,21,1996,3,3,270,3.0,0,1,1,0,0,0,0,0,,,,000,033,033,000,033,Partidas,31d1ed52
+537,Matheus Peixoto,br BRA,AT,Sport Recife,22,1995,8,2,233,2.6,0,0,0,0,0,0,2,0,,,,000,000,000,000,000,Partidas,05160796
+538,Léo Pelé,br BRA,ZG,Bahia,21,1996,32,32,2.859,31.8,0,1,1,0,0,0,2,0,,,,000,003,003,000,003,Partidas,77980eb9
+539,Pepê,br BRA,LT,Grêmio,20,1997,20,7,809,9.0,2,0,2,2,0,0,1,0,,,,022,000,022,022,022,Partidas,fc4e7637
+540,Egídio Pereira Júnior,br BRA,ZG,Cruzeiro,31,1986,25,24,2.205,24.5,0,1,1,0,0,0,4,0,,,,000,004,004,000,004,Partidas,6c5b3d31
+541,Leandro Pereira,br BRA,AT,Chapecoense,26,1991,34,26,2.398,26.6,11,0,11,9,2,2,7,1,,,,041,000,041,034,034,Partidas,0e1a4b88
+542,Léo Pereira,br BRA,ZG,Atl Paranaense,22,1996,18,17,1.537,17.1,3,1,4,3,0,0,5,0,,,,018,006,023,018,023,Partidas,bd247251
+543,Rafael Pereira,br BRA,ZG,Ceará,33,1984,6,6,491,5.5,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,044a1e39
+544,Bruno Peres,br BRA,ZGLT,São Paulo,27,1990,16,14,1.289,14.3,1,0,1,1,0,0,5,0,,,,007,000,007,007,007,Partidas,852351df
+545,Luan Peres Petroni,br BRA,ZG,Fluminense,23,1994,9,8,721,8.0,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,a5549ec1
+546,Petros,br BRA,LT,São Paulo,28,1989,6,4,420,4.7,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,7773f73b
+547,Juninho Piauiense,br BRA,AT,Ceará,18,1999,2,0,32,0.4,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,88df5586
+548,Yago Pikachu,br BRA,LT,Vasco da Gama,25,1992,35,34,2.967,33.0,10,3,13,5,5,5,3,2,,,,030,009,039,015,024,Partidas,462f1e13
+549,Rodrigo Pimpão,br BRA,LTAT,Botafogo (RJ),30,1987,31,13,1.425,15.8,1,0,1,1,0,0,9,0,,,,006,000,006,006,006,Partidas,16b6b009
+550,Pio,br BRA,LTZG,Ceará,30,1988,8,7,617,6.9,1,1,2,0,1,1,2,0,,,,015,015,029,000,015,Partidas,0d8e6b38
+551,Rafael Pires,br BRA,G,Cruzeiro,28,1989,8,8,720,8.0,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,539f6761
+552,Diego Pituca,br BRA,LT,Santos,25,1992,33,28,2.489,27.7,1,3,4,1,0,0,7,1,,,,004,011,014,004,014,Partidas,6f5249ed
+553,Anderson Plata,co COL,ATLT,Atl Paranaense,27,1990,3,0,60,0.7,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,3e20e946
+554,Mauricio Plenckauskas Cordeiro,br BRA,AT,Vitória,25,1992,4,1,155,1.7,1,0,1,1,0,0,1,1,,,,058,000,058,058,058,Partidas,996557cf
+555,Rodrigo Porto Carioca,br BRA,LT,Paraná,18,1999,2,1,97,1.1,0,1,1,0,0,0,0,0,,,,000,093,093,000,093,Partidas,6ecb034b
+556,William Pottker,br BRA,LTAT,Internacional,24,1993,30,27,2.210,24.6,5,0,5,5,0,0,4,1,,,,020,000,020,020,020,Partidas,214a16c5
+557,Fernando Prass,br BRA,G,Palmeiras,39,1978,3,3,270,3.0,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,eca3ee55
+558,Raul Prata,br BRA,ZG,Sport Recife,30,1987,21,18,1.698,18.9,0,1,1,0,0,0,5,1,,,,000,005,005,000,005,Partidas,08d68989
+559,Jean Pyerre,br BRA,LT,Grêmio,19,1998,12,7,625,6.9,1,0,1,0,1,1,0,0,,,,014,000,014,000,000,Partidas,b41dc073
+560,Juninho Quixadá,br BRA,LT,Ceará,32,1985,14,14,1.028,11.4,2,2,4,2,0,0,1,0,,,,018,018,035,018,035,Partidas,55f874da
+561,Igor Rabello,br BRA,ZG,Botafogo (RJ),22,1995,37,37,3.330,37.0,2,0,2,2,0,0,4,0,,,,005,000,005,005,005,Partidas,48048864
+562,Zé Rafael,br BRA,LT,Bahia,24,1993,33,33,2.814,31.3,4,3,7,4,0,0,6,0,,,,013,010,022,013,022,Partidas,634b1413
+563,Rafinha,br BRA,LT,Cruzeiro,34,1983,19,10,1.014,11.3,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,26a45c50
+564,Ralf,br BRA,LT,Corinthians,33,1984,19,18,1.563,17.4,1,0,1,1,0,0,6,0,,,,006,000,006,006,006,Partidas,e6afdccd
+565,Eric Ramires,br BRA,LT,Bahia,17,2000,15,15,1.254,13.9,1,3,4,1,0,0,2,0,,,,007,022,029,007,029,Partidas,37faa4cb
+566,Raniel,br BRA,AT,Cruzeiro,21,1996,32,12,1.459,16.2,4,1,5,4,0,1,1,0,,,,025,006,031,025,031,Partidas,099072c2
+567,Raul,br BRA,LTZG,Vasco da Gama,21,1996,16,10,956,10.6,0,0,0,0,0,0,2,0,,,,000,000,000,000,000,Partidas,c2f9cf65
+568,Rayan,br BRA,ZG,Paraná,28,1989,20,19,1.699,18.9,0,0,0,0,0,0,7,0,,,,000,000,000,000,000,Partidas,d50e5783
+569,Régis,br BRA,LT,Bahia,25,1992,18,4,582,6.5,3,2,5,2,1,1,3,0,,,,046,031,077,031,062,Partidas,0e2331f3
+570,Régis,br BRA,ZGLT,São Paulo,28,1989,11,6,633,7.0,0,1,1,0,0,0,3,0,,,,000,014,014,000,014,Partidas,af42c878
+571,Javier Reina,co COL,LTAT,Ceará,29,1989,10,4,442,4.9,0,0,0,0,0,0,2,0,,,,000,000,000,000,000,Partidas,d9190bbf
+572,Reinaldo,br BRA,ZGLT,São Paulo,28,1989,31,31,2.732,30.4,2,2,4,2,0,0,6,0,,,,007,007,013,007,013,Partidas,ab3edc87
+573,Renatinho,br BRA,LT,Botafogo (RJ),26,1992,17,7,650,7.2,0,0,0,0,0,0,2,0,,,,000,000,000,000,000,Partidas,7676774a
+574,Renato,br BRA,LT,Santos,38,1979,17,8,902,10.0,1,0,1,1,0,0,1,0,,,,010,000,010,010,010,Partidas,dc4d83fe
+575,Renê,br BRA,ZG,Flamengo,25,1992,34,33,2.977,33.1,2,5,7,2,0,0,7,0,,,,006,015,021,006,021,Partidas,d000ffc7
+576,Réver,br BRA,ZG,Flamengo,33,1985,26,26,2.269,25.2,2,0,2,2,0,0,1,0,,,,008,000,008,008,008,Partidas,1938fd6a
+577,Rhayner,br BRA,LT,Vitória,27,1990,20,18,1.495,16.6,1,1,2,1,0,0,6,1,,,,006,006,012,006,012,Partidas,4fcd3c43
+578,Rhodolfo,br BRA,ZG,Flamengo,31,1986,12,9,868,9.6,1,0,1,1,0,0,0,1,,,,010,000,010,010,010,Partidas,d993c301
+579,Duvier Riascos,co COL,AT,Vasco da Gama,31,1986,6,2,176,2.0,0,0,0,0,0,0,0,1,,,,000,000,000,000,000,Partidas,4e42d741
+580,Ribamar,br BRA,AT,Atl Paranaense,20,1997,3,1,105,1.2,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,2d1494d9
+581,Everton Ribeiro,br BRA,LT,Flamengo,28,1989,35,34,2.813,31.3,7,5,12,7,0,0,5,1,,,,022,016,038,022,038,Partidas,68fb50a2
+582,Lucas Ribeiro,br BRA,ZG,Vitória,19,1999,16,16,1.379,15.3,0,0,0,0,0,0,4,1,,,,000,000,000,000,000,Partidas,607d64c6
+583,Ricardo,br BRA,ZG,Vasco da Gama,20,1997,13,11,982,10.9,0,0,0,0,0,0,6,0,,,,000,000,000,000,000,Partidas,1254cdd7
+584,Luis Ricardo,br BRA,ZG,Botafogo (RJ),34,1984,8,6,586,6.5,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,955855cb
+585,Paulo Ricardo,br BRA,ZG,Fluminense,23,1994,9,6,582,6.5,0,0,0,0,0,0,2,0,,,,000,000,000,000,000,Partidas,d518a829
+586,João Ricardo Riedi,br BRA,G,América (MG),29,1988,28,28,2.520,28.0,0,0,0,0,0,0,2,0,,,,000,000,000,000,000,Partidas,4729d71a
+587,Zé Ricardo,br BRA,LT,América (MG),21,1996,18,12,1.097,12.2,0,0,0,0,0,0,3,0,,,,000,000,000,000,000,Partidas,352f938e
+588,Richard,br BRA,LT,Fluminense,23,1994,34,33,2.975,33.1,3,1,4,3,0,0,6,0,,,,009,003,012,009,012,Partidas,e90aa5da
+589,Richard,br BRA,G,Paraná,26,1991,23,23,2.025,22.5,0,0,0,0,0,0,3,0,,,,000,000,000,000,000,Partidas,f2c12e8d
+590,Richardson,br BRA,LT,Ceará,26,1991,30,30,2.646,29.4,0,2,2,0,0,1,13,0,,,,000,007,007,000,007,Partidas,ef6b8a6b
+591,Charles Rigon Matos,br BRA,LT,Internacional,21,1996,2,1,89,1.0,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,6ff91a3a
+592,Rildo,br BRA,LT,Vasco da Gama,28,1989,5,2,216,2.4,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,9348b02f
+593,Andrés Ríos,ar ARG,ATLT,Vasco da Gama,28,1989,28,23,2.117,23.5,7,1,8,7,0,1,4,0,,,,030,004,034,030,034,Partidas,f825bd33
+594,Bruno Ritter,br BRA,LT,Vasco da Gama,18,1999,2,2,158,1.8,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,ee04873e
+595,Paulo Roberto,br BRA,LTZG,Corinthians,30,1987,6,4,328,3.6,0,0,0,0,0,0,2,0,,,,000,000,000,000,000,Partidas,0a3ba5d6
+596,Robinho,br BRA,LT,Cruzeiro,30,1987,28,23,2.024,22.5,1,2,3,1,0,0,9,0,,,,004,009,013,004,013,Partidas,8f8809b9
+597,Robinho,br BRA,LT,América (MG),23,1995,12,3,409,4.5,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,421240e2
+598,Robinho,br BRA,AT,Ceará,23,1995,2,0,37,0.4,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,d6d16e83
+599,Robinho,br BRA,LT,Fluminense,23,1995,6,0,213,2.4,0,1,1,0,0,0,1,0,,,,000,042,042,000,042,Partidas,421240e2
+600,Lucas Robinho,br BRA,AT,Vasco da Gama,18,1999,2,0,36,0.4,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,8ee95cc6
+601,Marcos Rocha,br BRA,ZG,Palmeiras,29,1988,20,20,1.656,18.4,1,2,3,1,0,0,5,0,,,,005,011,016,005,016,Partidas,fdd2f275
+602,Rodinei,br BRA,ZG,Flamengo,26,1992,28,23,2.079,23.1,1,2,3,1,0,0,3,0,,,,004,009,013,004,013,Partidas,7696cc85
+603,Rodolfo,br BRA,LT,Paraná,25,1992,9,4,449,5.0,1,0,1,1,0,0,1,0,,,,020,000,020,020,020,Partidas,cf130a53
+604,Élton Rodrigues Brandão,br BRA,AT,Ceará,32,1985,6,4,423,4.7,2,1,3,2,0,0,2,0,,,,043,021,064,043,064,Partidas,e59be3c8
+605,Kayke Rodrigues,br BRA,AT,Bahia,29,1988,3,2,164,1.8,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,c9241f21
+606,Kayke Rodrigues,br BRA,AT,Fluminense,29,1988,9,5,452,5.0,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,c9241f21
+607,Mateus Rodrigues,br BRA,ZG,Vitória,18,1999,1,1,90,1.0,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,79e2fe9c
+608,Thiago Rodrigues,br BRA,G,Paraná,29,1988,12,12,1.080,12.0,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,229032df
+609,Rodrygo,br BRA,LTAT,Santos,17,2001,35,30,2.679,29.8,8,3,11,8,0,0,1,0,,,,027,010,037,027,037,Partidas,8f5e92a6
+610,Roger,br BRA,AT,Corinthians,33,1985,21,13,1.246,13.8,4,0,4,4,0,0,3,0,,,,029,000,029,029,029,Partidas,d571f664
+611,Rogério,br BRA,LTAT,Sport Recife,27,1990,28,21,1.766,19.6,3,0,3,3,0,0,3,1,,,,015,000,015,015,015,Partidas,d8131ea0
+612,Joao Rojas,ec ECU,LT,São Paulo,28,1989,18,17,1.471,16.3,1,5,6,1,0,0,4,0,,,,006,031,037,006,037,Partidas,77e9a4e7
+613,Yann Rolim,br BRA,LT,Chapecoense,22,1995,12,5,432,4.8,0,1,1,0,0,0,0,0,,,,000,021,021,000,021,Partidas,421a9102
+614,Romário,br BRA,ZGLT,Ceará,25,1992,8,6,533,5.9,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,45ab2426
+615,Romário,br BRA,AT,Ceará,25,1992,1,0,23,0.3,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,54ad9ec9
+616,Ángel Romero,py PAR,LTAT,Corinthians,25,1992,27,27,2.204,24.5,6,2,8,6,0,0,9,1,,,,025,008,033,025,033,Partidas,36edfb9b
+617,Lucas Romero,ar ARG,LTZG,Cruzeiro,23,1994,23,20,1.851,20.6,0,0,0,0,0,0,5,0,,,,000,000,000,000,000,Partidas,d89e48b8
+618,Rômulo,br BRA,LT,Flamengo,27,1990,7,3,300,3.3,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,0d5056c6
+619,Ronaldo,br BRA,G,Vitória,21,1996,20,20,1.800,20.0,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,711c08dc
+620,Rony,br BRA,LT,Atl Paranaense,22,1995,15,6,662,7.4,3,1,4,3,0,0,1,1,,,,041,014,054,041,054,Partidas,bffd5e50
+621,Matheus Rossetto,br BRA,LT,Atl Paranaense,21,1996,18,10,1.070,11.9,2,0,2,2,0,0,3,0,,,,017,000,017,017,017,Partidas,daf8c775
+622,Rossi,br BRA,LTAT,Internacional,24,1993,27,9,883,9.8,1,2,3,1,0,1,5,0,,,,010,020,031,010,031,Partidas,80274d82
+623,Ruan,br BRA,ZG,Vitória,24,1994,7,6,574,6.4,0,0,0,0,0,0,3,0,,,,000,000,000,000,000,Partidas,03970956
+624,Bryan Ruiz,cr CRC,LT,Santos,32,1985,12,3,360,4.0,0,2,2,0,0,0,0,0,,,,000,050,050,000,050,Partidas,fa6292e2
+625,Alan Ruschel,br BRA,ZG,Chapecoense,28,1989,6,3,268,3.0,0,0,0,0,0,0,2,0,,,,000,000,000,000,000,Partidas,09aeb402
+626,Ruy,br BRA,LTAT,América (MG),29,1989,21,11,1.106,12.3,1,2,3,0,1,1,0,0,,,,008,016,024,000,016,Partidas,5c0d029b
+627,Carlos Sánchez,uy URU,LT,Santos,33,1984,16,16,1.337,14.9,4,4,8,3,1,1,2,1,,,,027,027,054,020,047,Partidas,a6dbad80
+628,Sander,br BRA,ZG,Sport Recife,27,1990,28,27,2.475,27.5,0,3,3,0,0,0,9,0,,,,000,011,011,000,011,Partidas,3c16ca6c
+629,Alex Santana,br BRA,LT,Paraná,22,1995,27,21,1.945,21.6,4,0,4,4,0,0,7,0,,,,019,000,019,019,019,Partidas,e75dc411
+630,Jhony Santiago,br BRA,LT,Paraná,20,1997,8,2,269,3.0,0,0,0,0,0,0,4,0,,,,000,000,000,000,000,Partidas,ed7bd640
+631,Santos,br BRA,G,Atl Paranaense,27,1990,32,32,2.880,32.0,0,0,0,0,0,0,3,0,,,,000,000,000,000,000,Partidas,b8d0b69c
+632,Ademir Santos,br BRA,LT,América (MG),22,1995,14,5,696,7.7,1,1,2,1,0,0,3,0,,,,013,013,026,013,026,Partidas,4b7d58c2
+633,Aderlan Santos,br BRA,ZG,Vitória,28,1989,20,19,1.657,18.4,1,0,1,1,0,0,4,0,,,,005,000,005,005,005,Partidas,847e4cd8
+634,Cícero Santos,br BRA,LT,Grêmio,33,1984,24,20,1.822,20.2,2,1,3,1,1,1,5,0,,,,010,005,015,005,010,Partidas,823574bd
+635,Emerson Santos,br BRA,ZG,Internacional,22,1995,9,9,809,9.0,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,c3f98d3c
+636,Fábio Santos,br BRA,ZG,Atlético Mineiro,32,1985,32,32,2.816,31.3,4,1,5,0,4,5,8,1,,,,013,003,016,000,003,Partidas,d0d786fd
+637,Junior Santos,br BRA,ZG,Paraná,26,1992,22,21,1.892,21.0,1,1,2,1,0,0,4,0,,,,005,005,010,005,010,Partidas,a78d4dc4
+638,Léo Santos,br BRA,ZG,Corinthians,19,1998,22,20,1.775,19.7,0,0,0,0,0,0,2,0,,,,000,000,000,000,000,Partidas,fa5f51c8
+639,Luis Eduardo Marques dos Santos,br BRA,ZG,Internacional,20,1997,2,1,83,0.9,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,5c5a0d4d
+640,Marcelo Santos,br BRA,LT,Botafogo (RJ),23,1994,4,0,118,1.3,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,d67fb83e
+641,Rafael Santos,br BRA,ZG,Cruzeiro,19,1998,1,0,15,0.2,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,c72a6057
+642,Rene Santos,br BRA,ZG,Paraná,25,1992,19,18,1.513,16.8,0,0,0,0,0,0,4,1,,,,000,000,000,000,000,Partidas,bee587c0
+643,Thiago Santos,br BRA,AT,Paraná,27,1990,6,4,371,4.1,1,1,2,0,1,1,2,0,,,,024,024,049,000,024,Partidas,74781554
+644,Martín Sarrafiore,ar ARG,AT,Internacional,20,1997,1,0,7,0.1,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,55f096b1
+645,Eduardo Sasha,br BRA,ATLT,Santos,25,1992,25,19,1.495,16.6,1,3,4,1,0,0,1,0,,,,006,018,024,006,024,Partidas,b938b871
+646,Sassá,br BRA,AT,Cruzeiro,24,1994,16,8,761,8.5,2,0,2,2,0,0,3,0,,,,024,000,024,024,024,Partidas,445f7fc6
+647,Saulo,br BRA,G,Botafogo (RJ),22,1995,17,16,1.514,16.8,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,bf819f29
+648,Christian Savio,br BRA,LT,América (MG),22,1995,10,9,748,8.3,1,0,1,1,0,0,1,0,,,,012,000,012,012,012,Partidas,07902d3c
+649,Matheus Sávio,br BRA,LTAT,Flamengo,20,1997,5,3,205,2.3,1,0,1,1,0,0,0,0,,,,044,000,044,044,044,Partidas,41c692fc
+650,Gustavo Scarpa,br BRA,LT,Palmeiras,24,1994,12,8,653,7.3,2,1,3,1,1,1,3,0,,,,028,014,041,014,028,Partidas,2964fd20
+651,Serginho,br BRA,LT,América (MG),22,1995,12,12,1.057,11.7,4,3,7,4,0,0,1,0,,,,034,026,060,034,060,Partidas,b51396fe
+652,Shaylon,br BRA,LT,São Paulo,20,1997,14,3,395,4.4,2,0,2,2,0,0,1,0,,,,046,000,046,046,046,Partidas,69c11ef0
+653,Emerson Sheik,qa QAT,ATLT,Corinthians,39,1978,17,3,357,4.0,0,2,2,0,0,0,3,0,,,,000,050,050,000,050,Partidas,f22c0b3b
+654,Sidão,br BRA,G,São Paulo,35,1982,28,28,2.520,28.0,0,0,0,0,0,0,3,0,,,,000,000,000,000,000,Partidas,f554f2f0
+655,Sidcley,br BRA,ZG,Corinthians,24,1993,11,11,945,10.5,1,1,2,1,0,0,1,0,,,,010,010,019,010,019,Partidas,a5e96539
+656,Aderlan Silva,br BRA,ZGLT,América (MG),27,1990,23,20,1.712,19.0,0,2,2,0,0,0,8,1,,,,000,011,011,000,011,Partidas,48371573
+657,Bergson da Silva,br BRA,AT,Atl Paranaense,26,1991,16,9,871,9.7,3,1,4,2,1,1,6,0,,,,031,010,041,021,031,Partidas,056bea46
+658,Bruno Silva,br BRA,LT,Cruzeiro,31,1986,20,14,1.115,12.4,2,1,3,2,0,0,5,0,,,,016,008,024,016,024,Partidas,6efbf91e
+659,Bruno Silva,br BRA,ZGLT,Vasco da Gama,29,1988,11,10,846,9.4,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,6fa2f5fe
+660,Bruno Silva,br BRA,LT,Chapecoense,17,2000,31,9,1.343,14.9,1,4,5,1,0,0,2,0,,,,007,027,034,007,034,Partidas,e74901c0
+661,Caio Henrique Oliveira Silva,br BRA,LTAT,Paraná,20,1997,27,22,1.979,22.0,0,3,3,0,0,0,2,0,,,,000,014,014,000,014,Partidas,30af8b93
+662,Danilo da Silva,br BRA,ZG,Internacional,31,1986,2,2,180,2.0,0,0,0,0,0,0,2,0,,,,000,000,000,000,000,Partidas,1286ba63
+663,Diogo Silva,br BRA,G,Ceará,31,1986,1,1,90,1.0,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,1befd6e1
+664,Bryan Silva Garcia,br BRA,ZGLT,Vitória,25,1992,7,6,496,5.5,0,1,1,0,0,0,3,1,,,,000,018,018,000,018,Partidas,b776ab8e
+665,Leonardo Silva,br BRA,ZG,Atlético Mineiro,38,1979,24,24,2.077,23.1,4,0,4,4,0,0,8,0,,,,017,000,017,017,017,Partidas,5cabc265
+666,Lucas Silva,br BRA,LT,Cruzeiro,24,1993,23,19,1.595,17.7,0,0,0,0,0,0,4,0,,,,000,000,000,000,000,Partidas,1c646218
+667,Marcão Silva,br BRA,LT,Sport Recife,27,1991,15,15,1.243,13.8,0,0,0,0,0,0,2,0,,,,000,000,000,000,000,Partidas,e7f8bf4a
+668,Martín Silva,uy URU,G,Vasco da Gama,34,1983,24,24,2.160,24.0,0,0,0,0,0,0,4,0,,,,000,000,000,000,000,Partidas,a82aee85
+669,Matheus Pereira da Silva,br BRA,LT,Paraná,19,1998,2,0,75,0.8,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,bef22bc4
+670,Ricardo Silva,br BRA,ZG,América (MG),25,1992,1,1,90,1.0,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,a5075276
+671,Wellington Silva,br BRA,LT,Internacional,25,1993,10,2,266,3.0,1,1,2,1,0,0,0,1,,,,034,034,068,034,068,Partidas,5c60f49c
+672,Jailson Siqueira,br BRA,LT,Grêmio,22,1995,14,10,977,10.9,1,0,1,1,0,0,2,0,,,,009,000,009,009,009,Partidas,b4819112
+673,Everton Soares,br BRA,LT,Grêmio,21,1996,27,24,2.129,23.7,10,2,12,10,0,0,5,0,,,,042,008,051,042,051,Partidas,b1cbc666
+674,Rafael Sóbis,br BRA,LTAT,Cruzeiro,32,1985,19,13,1.162,12.9,3,1,4,1,2,2,3,0,,,,023,008,031,008,015,Partidas,aed1e36b
+675,Junior Sornoza,ec ECU,LT,Fluminense,24,1994,29,26,2.180,24.2,1,1,2,1,0,0,6,1,,,,004,004,008,004,008,Partidas,fdb68e2a
+676,Natanael de Sousa Santos Júnior,br BRA,LT,Chapecoense,32,1985,2,1,58,0.6,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,2d0d486f
+677,Fillipe Soutto,br BRA,LT,Vitória,26,1991,5,5,405,4.5,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,df9add04
+678,Deivid Souza,br BRA,LT,Paraná,29,1988,7,4,382,4.2,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,e42e1345
+679,Diego Souza,br BRA,AT,São Paulo,32,1985,32,32,2.617,29.1,12,3,15,12,0,0,0,1,,,,041,010,052,041,052,Partidas,273a2635
+680,Jackson de Souza,br BRA,ZG,Bahia,27,1990,6,5,421,4.7,0,0,0,0,0,0,2,1,,,,000,000,000,000,000,Partidas,e82deb13
+681,Maicon Souza,br BRA,LT,Grêmio,32,1985,21,20,1.517,16.9,3,2,5,3,0,1,3,0,,,,018,012,030,018,030,Partidas,e0142382
+682,Odair Souza,br BRA,LT,Chapecoense,35,1982,3,0,22,0.2,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,a475bcf3
+683,Gabriel Taliari,br BRA,LT,Atl Paranaense,20,1997,3,0,41,0.5,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,75a16442
+684,Diego Tavares,br BRA,ZG,Paraná,26,1991,1,1,90,1.0,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,b4280f67
+685,Júnior Tavares,br BRA,ZGLT,São Paulo,21,1996,1,0,36,0.4,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,f1675fdd
+686,Tchê Tchê,br BRA,ZGLT,Palmeiras,25,1992,1,0,21,0.2,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,5f2caf8f
+687,David Terans,uy URU,ATLT,Atlético Mineiro,23,1994,19,3,528,5.9,1,1,2,1,0,0,2,0,,,,017,017,034,017,034,Partidas,d3d89d8d
+688,Thaciano,br BRA,LT,Grêmio,22,1995,17,7,735,8.2,1,0,1,1,0,0,3,0,,,,012,000,012,012,012,Partidas,139113e4
+689,Thiaguinho,br BRA,LTZG,Corinthians,20,1997,9,5,569,6.3,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,ad967d57
+690,Thuler,br BRA,ZG,Flamengo,18,1999,7,5,501,5.6,1,0,1,1,0,0,1,0,,,,018,000,018,018,018,Partidas,db23d9fc
+691,Rafael Thyere,br BRA,ZG,Chapecoense,24,1993,28,28,2.520,28.0,1,0,1,1,0,0,7,0,,,,004,000,004,004,004,Partidas,e2a29d9d
+692,Miguel Trauco,pe PER,ZG,Flamengo,25,1992,6,4,368,4.1,0,4,4,0,0,0,0,0,,,,000,098,098,000,098,Partidas,e4b72e34
+693,Santiago Tréllez,co COL,ATLT,São Paulo,28,1990,23,6,745,8.3,4,0,4,4,0,0,2,0,,,,048,000,048,048,048,Partidas,2446ac6b
+694,Uendel,br BRA,ZG,Internacional,29,1988,3,3,227,2.5,0,1,1,0,0,0,0,0,,,,000,040,040,000,040,Partidas,0bd9e045
+695,Fernando Uribe,co COL,AT,Flamengo,30,1988,20,16,1.327,14.7,6,2,8,6,0,0,1,0,,,,041,014,054,041,054,Partidas,cec4c774
+696,Valdívia,br BRA,LT,São Paulo,23,1994,5,0,128,1.4,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,e12be458
+697,Valdo,br BRA,ZG,Ceará,25,1992,17,12,1.090,12.1,1,0,1,1,0,0,0,0,,,,008,000,008,008,008,Partidas,e80b3ed7
+698,Leonardo Valencia,cl CHI,LT,Botafogo (RJ),26,1991,27,25,2.094,23.3,3,5,8,3,0,0,3,0,,,,013,021,034,013,034,Partidas,e333f531
+699,Vanderlei,br BRA,G,Santos,33,1984,37,37,3.330,37.0,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,ab55df84
+700,Emiliano Vecchio,ar ARG,LT,Santos,29,1988,2,0,40,0.4,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,e68e64a4
+701,Raphael Veiga,br BRA,LT,Atl Paranaense,22,1995,31,24,2.124,23.6,7,6,13,7,0,0,7,0,,,,030,025,055,030,055,Partidas,6e5a3bc7
+702,Lucas Veríssimo,br BRA,ZG,Santos,22,1995,14,14,1.135,12.6,0,0,0,0,0,0,2,1,,,,000,000,000,000,000,Partidas,5eaf85b5
+703,Vico,br BRA,LT,Grêmio,19,1999,1,0,13,0.1,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,206caf66
+704,Paulo Victor Vidotti,br BRA,G,Grêmio,31,1987,20,19,1.755,19.5,0,0,0,0,0,0,3,0,,,,000,000,000,000,000,Partidas,68a3e731
+705,Bruno Vieira,br BRA,ZG,Bahia,32,1985,16,15,1.259,14.0,0,1,1,0,0,0,1,0,,,,000,007,007,000,007,Partidas,0adcdf35
+706,Luan Vieira,br BRA,LT,Grêmio,24,1993,18,18,1.566,17.4,1,6,7,1,0,2,3,0,,,,006,034,040,006,040,Partidas,c4f6bf06
+707,Leandro Vilela,br BRA,LT,Paraná,22,1995,30,28,2.383,26.5,0,1,1,0,0,0,11,1,,,,000,004,004,000,004,Partidas,9f46ca0b
+708,Vinícius,br BRA,LT,Bahia,26,1991,29,20,1.752,19.5,4,1,5,4,0,1,3,0,,,,021,005,026,021,026,Partidas,ee01c84d
+709,Vinícius,br BRA,LT,Chapecoense,24,1993,11,3,332,3.7,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,b6bd2b80
+710,Marcos Vinicius,br BRA,ZG,Chapecoense,20,1997,1,1,90,1.0,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,72cacb0d
+711,Marcos Vinícius,br BRA,LT,Botafogo (RJ),23,1994,7,2,252,2.8,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,43db5820
+712,Mateus Vital,br BRA,LT,Corinthians,19,1998,33,18,1.671,18.6,2,1,3,2,0,0,0,0,,,,011,005,016,011,016,Partidas,db9c8fa4
+713,Vitinho,br BRA,ZGLT,Cruzeiro,18,1999,1,0,23,0.3,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,9295dc1c
+714,Vitinho,br BRA,LT,Flamengo,24,1993,22,19,1.616,18.0,3,5,8,3,0,0,2,0,,,,017,028,045,017,045,Partidas,a9e68c94
+715,Paulo Vitor,br BRA,AT,Vasco da Gama,18,1999,3,0,85,0.9,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,3ace4e2d
+716,Felipe Vizeu,br BRA,AT,Flamengo,20,1997,5,1,159,1.8,3,0,3,3,0,0,2,0,,,,170,000,170,170,170,Partidas,0412b9cd
+717,Vladimir,br BRA,G,Santos,28,1989,1,1,90,1.0,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,bbae502c
+718,Wágner,br BRA,LT,Vasco da Gama,33,1985,16,14,1.127,12.5,4,0,4,4,0,0,7,0,,,,032,000,032,032,032,Partidas,a6f05fa0
+719,Wallyson,br BRA,LT,Vitória,29,1988,19,9,1.008,11.2,2,4,6,2,0,0,2,0,,,,018,036,054,018,054,Partidas,0d0cd36a
+720,Walter,br BRA,G,Corinthians,30,1987,12,11,1.043,11.6,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,8bae322b
+721,Wanderson,br BRA,ZG,Atl Paranaense,26,1991,15,12,1.271,14.1,0,0,0,0,0,0,2,0,,,,000,000,000,000,000,Partidas,f612025c
+722,Adílson Warken,br BRA,LT,Atlético Mineiro,31,1987,22,22,1.824,20.3,0,0,0,0,0,0,8,0,,,,000,000,000,000,000,Partidas,50ef4816
+723,José Welison,br BRA,LTZG,Vitória,22,1995,6,5,464,5.2,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,b6cb4d16
+724,José Welison,br BRA,LT,Atlético Mineiro,22,1995,15,12,1.090,12.1,0,0,0,0,0,0,3,0,,,,000,000,000,000,000,Partidas,b6cb4d16
+725,Werley,br BRA,ZG,Vasco da Gama,29,1988,14,14,1.245,13.8,0,0,0,0,0,0,2,0,,,,000,000,000,000,000,Partidas,1fbee9a9
+726,Wescley,br BRA,LT,Ceará,26,1991,11,8,672,7.5,3,0,3,3,0,0,2,0,,,,040,000,040,040,040,Partidas,5a43c680
+727,Wesley,br BRA,LTAT,América (MG),30,1987,17,13,915,10.2,0,1,1,0,0,0,5,2,,,,000,010,010,000,010,Partidas,ea3f3bfd
+728,Wesley,br BRA,ZGLT,Paraná,22,1995,16,13,1.169,13.0,0,0,0,0,0,0,2,0,,,,000,000,000,000,000,Partidas,b3f1a58a
+729,Wéverton,br BRA,G,Palmeiras,30,1987,23,23,2.025,22.5,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,81be82e9
+730,Willian,br BRA,ATLT,Palmeiras,31,1986,32,21,1.967,21.9,10,4,14,10,0,0,2,0,,,,046,018,064,046,064,Partidas,1f85d0c8
+731,Cláudio Winck,br BRA,ZG,Sport Recife,23,1994,21,18,1.536,17.1,3,1,4,3,0,0,7,1,,,,018,006,023,018,023,Partidas,a71dc814
+732,Samuel Xavier,br BRA,ZG,Ceará,27,1990,25,25,2.188,24.3,1,4,5,1,0,0,12,2,,,,004,016,021,004,021,Partidas,0c870df5
+733,Yago,br BRA,LT,Vitória,22,1995,27,18,1.549,17.2,2,2,4,0,2,2,4,1,,,,012,012,023,000,012,Partidas,e2add0e7
+734,Yago,br BRA,LT,Atlético Mineiro,22,1995,2,0,81,0.9,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,51493bca
+735,Yago,br BRA,ZG,Botafogo (RJ),25,1992,5,4,383,4.3,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,3f4761a1
+736,Yuri,br BRA,LTZG,Botafogo (RJ),22,1996,2,2,150,1.7,0,0,0,0,0,0,1,0,,,,000,000,000,000,000,Partidas,e4180586
+737,Zeca,br BRA,ZGLT,Internacional,23,1994,19,17,1.351,15.0,0,1,1,0,0,0,1,0,,,,000,007,007,000,007,Partidas,c816eea6
+738,Zezinho,br BRA,LT,Paraná,25,1992,1,0,19,0.2,0,0,0,0,0,0,0,0,,,,000,000,000,000,000,Partidas,a2429135
