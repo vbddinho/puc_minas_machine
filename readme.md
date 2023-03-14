@@ -11,3 +11,5 @@ https://www.analyticsvidhya.com/blog/2021/04/beginners-guide-to-low-variance-fil
 https://dadosaleatorios.com/post/overfitting/
 
 https://www.analyticsvidhya.com/blog/2020/10/a-comprehensive-guide-to-feature-selection-using-wrapper-methods-in-python/
+
+https://medium.com/data-hackers/como-avaliar-seu-modelo-de-classifica%C3%A7%C3%A3o-34e6f6011108
