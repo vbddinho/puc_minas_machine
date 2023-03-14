@@ -1,25 +1,13 @@
-# Anotações
-
-1 ) Verificar quantidade de Vitorias/Derrotas/Empate do Clube (Botafogo, Vasco, Fluminense, Flamengo)
-Exemplo: Quantidade de Vitorias ANO
-Exemplo: Quantidade de Derrotas ANO
-Exemplo: Quantidade de Empates ANO
-
-2) Quais os Clubes são os Carrascos ( Qual Clube Adversario que mais ganhou do Clube Analisado , pode ser Média)
-
-3) Quantidade de Gols Por Ano
-
-4) Quantidade de Gols Sofrido por ano
-
-5) Qual Clube Adversario tomou mais gol do clube analisado ( Pode ser por média Jogos x gols)
-
-6) Total Geral de Média de Gols por ano, Média de Partidas vencidas por ano, Média de Partidas perdidas por ano e média de partidas empatadas por ano.
-
-
-
-
 # Fontes :
 
 Machine Learning no Campeonato Brasileiro (Fonte: https://www.football-data.co.uk/brazil.php ) https://www.youtube.com/watch?v=e1e5RwaVY8I
 
 https://paulovasconcellos.com.br/o-que-%C3%A9-a-value-is-trying-to-be-set-on-a-copy-of-a-slice-from-a-dataframe-e85f744d8be1
+
+https://pt.stackoverflow.com/questions/484866/como-preencher-uma-coluna-de-um-df-pandas-usando-como-compara%C3%A7%C3%A3o-uma-coluna-es
+
+https://www.analyticsvidhya.com/blog/2021/04/beginners-guide-to-low-variance-filter-and-its-implementation/
+
+https://dadosaleatorios.com/post/overfitting/
+
+https://www.analyticsvidhya.com/blog/2020/10/a-comprehensive-guide-to-feature-selection-using-wrapper-methods-in-python/
