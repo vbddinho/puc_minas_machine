@@ -13,3 +13,11 @@ https://dadosaleatorios.com/post/overfitting/
 https://www.analyticsvidhya.com/blog/2020/10/a-comprehensive-guide-to-feature-selection-using-wrapper-methods-in-python/
 
 https://medium.com/data-hackers/como-avaliar-seu-modelo-de-classifica%C3%A7%C3%A3o-34e6f6011108
+
+https://medium.com/horadecodar/gr%C3%A1ficos-de-pizza-com-matplotlib-piechart-33ea9760ad87
+
+https://cursos.alura.com.br/forum/topico-como-inserir-os-rotulos-em-um-grafico-de-barra-no-matplotlib-pandas-173378
+
+https://medium.com/horadecodar/gr%C3%A1ficos-de-barra-com-matplotlib-85628bfc4351
+
+https://acervolima.com/como-colocar-a-legenda-fora-do-enredo-no-matplotlib/
