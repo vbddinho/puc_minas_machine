@@ -21,3 +21,5 @@ https://cursos.alura.com.br/forum/topico-como-inserir-os-rotulos-em-um-grafico-d
 https://medium.com/horadecodar/gr%C3%A1ficos-de-barra-com-matplotlib-85628bfc4351
 
 https://acervolima.com/como-colocar-a-legenda-fora-do-enredo-no-matplotlib/
+
+https://www.kaggle.com/code/eriveltonguedes/7-clusteriza-o-k-means-erivelton/notebook
