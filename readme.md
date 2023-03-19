@@ -23,3 +23,5 @@ https://medium.com/horadecodar/gr%C3%A1ficos-de-barra-com-matplotlib-85628bfc435
 https://acervolima.com/como-colocar-a-legenda-fora-do-enredo-no-matplotlib/
 
 https://www.kaggle.com/code/eriveltonguedes/7-clusteriza-o-k-means-erivelton/notebook
+
+https://www.youtube.com/watch?v=M5zCYJbtrNw
