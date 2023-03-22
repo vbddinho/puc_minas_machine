@@ -25,3 +25,7 @@ https://acervolima.com/como-colocar-a-legenda-fora-do-enredo-no-matplotlib/
 https://www.kaggle.com/code/eriveltonguedes/7-clusteriza-o-k-means-erivelton/notebook
 
 https://www.youtube.com/watch?v=M5zCYJbtrNw
+
+
+https://www.britannica.com/sports/football-soccer
+https://brasilescola.uol.com.br/educacao-fisica/campeonato-brasileiro.htm
