@@ -29,3 +29,7 @@ https://www.youtube.com/watch?v=M5zCYJbtrNw
 
 https://www.britannica.com/sports/football-soccer
 https://brasilescola.uol.com.br/educacao-fisica/campeonato-brasileiro.htm
+
+https://vitorborbarodrigues.medium.com/m%C3%A9tricas-de-avalia%C3%A7%C3%A3o-acur%C3%A1cia-precis%C3%A3o-recall-quais-as-diferen%C3%A7as-c8f05e0a513c
+
+https://medium.com/@edubrazrabello/cross-validation-avaliando-seu-modelo-de-machine-learning-1fb70df15b78
