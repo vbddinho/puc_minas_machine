@@ -1,1 +1,1 @@
-# Projeto de TCC Puc Minas - Vanderson
+# Projeto de TCC Puc Minas - Vanderson B. Dutra
